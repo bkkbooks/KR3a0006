@@ -1,0 +1,236 @@
+canonical_identifier: bkk:krp/KR3a0006/tls/v1
+canonical_location: https://kanripo.org/bkk/KR3a0006/tls/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鹽鐵論
+  identifiers:
+    krp: KR3a0006
+  tags:
+    kr-categories: KR3a
+    tls-internal:
+    - core
+    - swl
+    - tr-en
+    tls-dates: dat06210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3a0006.xml
+  edition:
+    short: tls
+assets:
+  parts:
+  - {seq: 1, filename: KR3a0006_001-tls.yaml, hash: 'sha256:857b6a9f0ea03774dde67f1cacee83ce14abb53171d512e7dfed8a0ffebf883f'}
+  - {seq: 2, filename: KR3a0006_002-tls.yaml, hash: 'sha256:2a5e46275d446f8932bf24f99099d4ed4632ed4491ac4266fe7785c7de8719d8'}
+  - {seq: 3, filename: KR3a0006_003-tls.yaml, hash: 'sha256:68ad9977bd9578ba1db65e0bff85228566edb96fc8cc27c4121e114b7a1fc370'}
+  - {seq: 4, filename: KR3a0006_004-tls.yaml, hash: 'sha256:67f4494f3fe80d69bfaa32df0ebf7a2e6e281a6dc60447104914f1adc9b3be3c'}
+  - {seq: 5, filename: KR3a0006_005-tls.yaml, hash: 'sha256:56022858766d615c908f4c6b8db8c95398fa4876f6e92837b2b2609b4ee84cae'}
+  - {seq: 6, filename: KR3a0006_006-tls.yaml, hash: 'sha256:c14b405543cd0f77e956286496c616d480b1a556b12593ef84bc7c1866d7ceb2'}
+  - {seq: 7, filename: KR3a0006_007-tls.yaml, hash: 'sha256:842a9e54a465e8d094b14c43ad59b0ce3caa4aaafbfbf2fc09ef12ab6d8b5935'}
+  - {seq: 8, filename: KR3a0006_008-tls.yaml, hash: 'sha256:3cac376b9e7c2e5f60c48f0e8313308524d8db042a1517a30dad67545006ab9e'}
+  - {seq: 9, filename: KR3a0006_009-tls.yaml, hash: 'sha256:baa0503c11815445e7a080c80fde04bcff1554ee0a642d2b40f0c14e17618607'}
+  - {seq: 10, filename: KR3a0006_010-tls.yaml, hash: 'sha256:b01e8da75500f537b71d06bc72152a33a94080f1805c83e1f3d6f13112a3374a'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3a0006_001-tls.markers.yaml, hash: 'sha256:fb6060759c08bebd6ec8b169f32e27dc4c681e7c778b215957a845d5da6bc4a6'}
+  - {seq: 2, role: markers, filename: assets/KR3a0006_002-tls.markers.yaml, hash: 'sha256:d112e1c4a602f918a565ac85689695a58fb45bfce57ed771fa779a8a201da1cb'}
+  - {seq: 3, role: markers, filename: assets/KR3a0006_003-tls.markers.yaml, hash: 'sha256:ef5a9aa82589c29d969f0476bbec701a65652dd794b0f83e3cafb91fb33c2db5'}
+  - {seq: 4, role: markers, filename: assets/KR3a0006_004-tls.markers.yaml, hash: 'sha256:c5d9704d587e36aa0619f4cdbf2ff666f38ad8e2994bc8b7dec60a5821c486cc'}
+  - {seq: 5, role: markers, filename: assets/KR3a0006_005-tls.markers.yaml, hash: 'sha256:c972bfb452b7f91c1ac9b360431e3566856ed2dfdb13159c363c7685c576b873'}
+  - {seq: 6, role: markers, filename: assets/KR3a0006_006-tls.markers.yaml, hash: 'sha256:c98658c33612c99873e1878fc12939e63ed4fae1b40de00f9f32d4504ef9f9f3'}
+  - {seq: 7, role: markers, filename: assets/KR3a0006_007-tls.markers.yaml, hash: 'sha256:983f70d30bac2b67933a56c3aca3233b1534fe71b525c3534215b7ddcb0e6cd8'}
+  - {seq: 8, role: markers, filename: assets/KR3a0006_008-tls.markers.yaml, hash: 'sha256:ab58161e705e898cf1f24cfb3ab428dfb6a1628842716331427aeb4d81f07af0'}
+  - {seq: 9, role: markers, filename: assets/KR3a0006_009-tls.markers.yaml, hash: 'sha256:46996de726a54c8bbe80dfbc6f02cb8c8344d18431ff76d75cfad9f17ad13e37'}
+  - {seq: 10, role: markers, filename: assets/KR3a0006_010-tls.markers.yaml, hash: 'sha256:5f7ba826d6eaba34b3a3b8d5c67442f73fc82d7bd4e8d74580158a27ea42db34'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3a0006_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 5744
+  label: 鹽鐵論卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0006_tls_001-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0006_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 5701
+  label: 鹽鐵論卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0006_tls_002-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0006_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 2791
+  label: 鹽鐵論卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0006_tls_003-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0006_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 3969
+  label: 鹽鐵論卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0006_tls_004-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0006_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 7685
+  label: 鹽鐵論卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0006_tls_005-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0006_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 6417
+  label: 鹽鐵論卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0006_tls_006-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0006_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 3816
+  label: 鹽鐵論卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0006_tls_007-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0006_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 4067
+  label: 鹽鐵論卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0006_tls_008-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0006_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 4367
+  label: 鹽鐵論卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0006_tls_009-1a.3-h
+    span:
+    - body
+    - 0
+    - 0
+  label: 鹽鐵論卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0006_tls_010-1a.3-h
+    span:
+    - body
+    - 0
+    - 5436
+  label: 鹽鐵論卷十
+  type: section
+  level: 1
+hash: sha256:d119a9a8ef1642198464e9ce22baed748ad8cd45e97df59672869071a5e893c0

@@ -1,0 +1,198 @@
+canonical_identifier: bkk:krp/KR3a0006/krp/v1
+canonical_location: https://kanripo.org/bkk/KR3a0006/krp/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 鹽鐵論
+  date: '2015-08-24 22:57:02.309839'
+  source:
+    repository: kanripo
+    path: KR3a0006
+  base_edition: SBCK
+  edition:
+    short: krp
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3a0006_000-krp.yaml, hash: 'sha256:ce4db72467c80530d91b619ee3beffb22d3b462ab64d9ed215f890ee4a48b5f2'}
+  - {seq: 1, filename: KR3a0006_001-krp.yaml, hash: 'sha256:7cc13137d86a23ffd897ed75b017fded88cbefce925f793b0c7a2c488b9e8a6c'}
+  - {seq: 2, filename: KR3a0006_002-krp.yaml, hash: 'sha256:db66874d4650681f7a95f3df1100acb5b26fc0e314d0ad7401d0b23101deba4e'}
+  - {seq: 3, filename: KR3a0006_003-krp.yaml, hash: 'sha256:eb720d7dd4d674e8129b7ddf12af769dbc92d9542f94b4ca5d5bbb87183bf9fc'}
+  - {seq: 4, filename: KR3a0006_004-krp.yaml, hash: 'sha256:d2ea6198283ca5376c124727cbaee566231b524b2708e1219a4770d47cb13303'}
+  - {seq: 5, filename: KR3a0006_005-krp.yaml, hash: 'sha256:e3963957a36778f9afec90b42dacbe046494234fc2569b62cec5f023f31668ad'}
+  - {seq: 6, filename: KR3a0006_006-krp.yaml, hash: 'sha256:66b8ec2b84e11f9ac2c55d6e81990cea571a7f3ccfc5e69bf121075af59a8bcc'}
+  - {seq: 7, filename: KR3a0006_007-krp.yaml, hash: 'sha256:9d97823f3a709d3b362cb99a7a2b16bc9e655a72d548234b5c3ed1427a6f2e13'}
+  - {seq: 8, filename: KR3a0006_008-krp.yaml, hash: 'sha256:54cc50070e422fd832b772ae6dfeb16b72af5da609a3a0575b55fd5eae1cc7fa'}
+  - {seq: 9, filename: KR3a0006_009-krp.yaml, hash: 'sha256:b572e3e55ac9f28b43899045d155672399825da2f9af7eade5d32bb4c500055e'}
+  - {seq: 10, filename: KR3a0006_010-krp.yaml, hash: 'sha256:eae7e2bbd18154920b52007f3506f2419697293fe9658d86e179bedc9c1c0551'}
+  - {seq: 11, filename: KR3a0006_011-krp.yaml, hash: 'sha256:8d35d7e76244872479db439735162724a789958f1400812022194a01c17db56d'}
+  - {seq: 12, filename: KR3a0006_012-krp.yaml, hash: 'sha256:0a0d1a9bad0ed1e744ceff8b9424712d9bb63850cf01c4c708213b9b8ab176c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3a0006_000-krp.markers.yaml, hash: 'sha256:7af769377a2265cf9261a10a8f9fc93a303e73209ea46bf48d28a846bff3db0c'}
+  - {seq: 1, role: markers, filename: assets/KR3a0006_001-krp.markers.yaml, hash: 'sha256:ff5f0439dccc2a2553fc7b7b1aa05972c95e9c0efc4f078a11dc02c359c10f5b'}
+  - {seq: 2, role: markers, filename: assets/KR3a0006_002-krp.markers.yaml, hash: 'sha256:4e63ae2783a8d761a4cdf9c370217be4dbaa5a87f41bc436a0e9af76f90c48cc'}
+  - {seq: 3, role: markers, filename: assets/KR3a0006_003-krp.markers.yaml, hash: 'sha256:266a529ed74e2d0d7b8719153fd8beec9914e3b691f3ed255480e19fbf50445f'}
+  - {seq: 4, role: markers, filename: assets/KR3a0006_004-krp.markers.yaml, hash: 'sha256:7520cd08c65c48b85e1de651c2c8578acc733a86cd6eb8a753dd4238f1b49473'}
+  - {seq: 5, role: markers, filename: assets/KR3a0006_005-krp.markers.yaml, hash: 'sha256:d6b7087abdc7dc7509d80018ff90d67102b6570db99367bf457d3c14c2b05361'}
+  - {seq: 6, role: markers, filename: assets/KR3a0006_006-krp.markers.yaml, hash: 'sha256:354b664b9db5f56a0cbff0651a6ac1eb3f230e518bdaf132ea23cc927151974a'}
+  - {seq: 7, role: markers, filename: assets/KR3a0006_007-krp.markers.yaml, hash: 'sha256:f090f4ff1b4880c13938ddd4fadf88b07e0e392ba454cde5a1b0da9a15c04b13'}
+  - {seq: 8, role: markers, filename: assets/KR3a0006_008-krp.markers.yaml, hash: 'sha256:4e3eb7b59788a5a593fa98ed418d673709a198e3d28768179cb74ad694cd365f'}
+  - {seq: 9, role: markers, filename: assets/KR3a0006_009-krp.markers.yaml, hash: 'sha256:b863dfc29a564e642458981a562fd0b5eb6ca56a1263fd3ed7a77c02ce76d0ce'}
+  - {seq: 10, role: markers, filename: assets/KR3a0006_010-krp.markers.yaml, hash: 'sha256:37eb3dbf7bf2c451269ef094676973082de334d0c7448547e824d7601cd65bbf'}
+  - {seq: 11, role: markers, filename: assets/KR3a0006_011-krp.markers.yaml, hash: 'sha256:4a85c0cca9924c9ce2a6188fcd319ea9dce9df101bda0611615a71f04201cca3'}
+  - {seq: 12, role: markers, filename: assets/KR3a0006_012-krp.markers.yaml, hash: 'sha256:88b857ccbcb4e4a3d621eaec12caf392e9f1cd0d54a1e4850cd9713443d4d7a9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3a0006_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 305
+  label: 目録
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0006_WYG_000-4a
+    span:
+    - body
+    - 305
+    - 625
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3a0006_WYG_000-6a
+    span:
+    - body
+    - 625
+    - 1504
+  label: 張之象註鹽鐡論原序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3a0006_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 11067
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3a0006_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 12365
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3a0006_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 18467
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3a0006_WYG_004-1a
+    span:
+    - body
+    - 0
+    - 13182
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3a0006_WYG_005-1a
+    span:
+    - body
+    - 0
+    - 13538
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3a0006_WYG_006-1a
+    span:
+    - body
+    - 0
+    - 16704
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3a0006_WYG_007-1a
+    span:
+    - body
+    - 0
+    - 16025
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3a0006_WYG_008-1a
+    span:
+    - body
+    - 0
+    - 13059
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3a0006_WYG_009-1a
+    span:
+    - body
+    - 0
+    - 17265
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3a0006_WYG_010-1a
+    span:
+    - body
+    - 0
+    - 13854
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3a0006_WYG_011-1a
+    span:
+    - body
+    - 0
+    - 13607
+  label: 卷十一
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3a0006_WYG_012-1a
+    span:
+    - body
+    - 0
+    - 17895
+  label: 卷十二
+  type: section
+  level: 1
+hash: sha256:05e83f18be9dece72e261de745f8c667c75b3a73d7f97af5d0093e97588755cb

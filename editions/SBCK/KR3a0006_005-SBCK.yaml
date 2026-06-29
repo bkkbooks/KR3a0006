@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3a0006/SBCK/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十
+  hash: sha256:fc7edd399a5c4b93723eb0c091bf64e56e24c30195c1519067c68513a4d2c8fb
+metadata:
+  title: 鹽鐵論
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 22:57:02.309839'
+  source:
+    repository: kanripo
+    path: KR3a0006/KR3a0006_005.txt
+hash: sha256:fc1f34007104672e74c66fc722ea17c207fabe100e963ec440e08789e2e32789
