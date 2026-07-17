@@ -92,6 +92,7 @@ markers:
   - {type: indent, offset: 40, content: 　, id: KR3a0006_krp_010-bkkind11}
   - {type: punctuation, offset: 47, content: (, id: KR3a0006_krp_010-bkkpn1}
   - {type: variant, offset: 47, length: 291, content: 汜論曰徐偃王被服慈惠身行仁義陸地之朝者三十二國然而身死國亡子孫無類指武篇曰王孫厲謂楚文王曰徐偃王好行仁義之道漢東諸侯三十二國盡服矣王若不伐楚必事徐王曰若信有道不可伐也對曰大之伐小强之伐弱猶大魚之吞小魚也若虎之食豚也惡有其不得理文王遂興師伐徐殘之徐偃王將死曰吾頼於文徳而不明武備好行仁義之道而不知詐人之心以至於此夫古之王者其有備乎人間訓曰昔徐偃王好行仁義陸地之朝者三十二國王孫厲謂楚莊王曰王不伐徐必反朝徐王曰偃王有道之君也好行仁義不可伐王孫厲曰臣聞之大之與小强之與弱也猶石之投卵虎之啗豚又何疑焉且聞為文而不能達其徳為武而不能任其力亂莫大焉楚王曰善乃舉兵而伐徐遂滅之知仁義而不知世變者也, SBCK: ''}
+  - {type: voice, offset: 47, length: 291, name: note, id: n1}
   - {type: punctuation, offset: 60, content: /, id: KR3a0006_krp_010-bkkpn2}
   - {type: punctuation, offset: 73, content: ), id: KR3a0006_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 73, content: '
@@ -168,10 +169,12 @@ markers:
   - {type: indent, offset: 365, content: 　, id: KR3a0006_krp_010-bkkind20}
   - {type: punctuation, offset: 370, content: (, id: KR3a0006_krp_010-bkkpn25}
   - {type: variant, offset: 370, length: 2, content: 音捜, SBCK: ''}
+  - {type: voice, offset: 370, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 371, content: /, id: KR3a0006_krp_010-bkkpn26}
   - {type: punctuation, offset: 372, content: ), id: KR3a0006_krp_010-bkkpn27}
   - {type: punctuation, offset: 373, content: (, id: KR3a0006_krp_010-bkkpn28}
   - {type: variant, offset: 373, length: 2, content: 音癬, SBCK: ''}
+  - {type: voice, offset: 373, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 374, content: /, id: KR3a0006_krp_010-bkkpn29}
   - {type: punctuation, offset: 375, content: ), id: KR3a0006_krp_010-bkkpn30}
   - {type: 'kr:newline', offset: 387, content: '
@@ -185,11 +188,13 @@ markers:
   - {type: indent, offset: 387, content: 　, id: KR3a0006_krp_010-bkkind21}
   - {type: punctuation, offset: 387, content: (, id: KR3a0006_krp_010-bkkpn31}
   - {type: variant, offset: 387, length: 2, content: 音逸, SBCK: ''}
+  - {type: voice, offset: 387, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 388, content: /, id: KR3a0006_krp_010-bkkpn32}
   - {type: punctuation, offset: 389, content: ), id: KR3a0006_krp_010-bkkpn33}
   - {type: page-break, offset: 389, content: '', id: KR3a0006_SBCK_008-12b}
   - {type: punctuation, offset: 393, content: (, id: KR3a0006_krp_010-bkkpn34}
   - {type: variant, offset: 393, length: 125, content: 去聲春秋曰正月公狩于郎傳曰春曰蒐夏曰苗秋曰獮春蒐者不殺小麛及孕重者冬狩皆取之百姓皆出不失其馳不抵禽不詭遇逐不出防此苗獮蒐狩之義也故苗獮蒐狩之禮簡其戎事也主父偃曰司馬法曰國雖大好戰必亡天下雖平忘戰必危天下既平天下大凱春蒐秋獮諸侯春振旅秋治兵所以不忘戰也, SBCK: ''}
+  - {type: voice, offset: 393, length: 125, name: note, id: n5}
   - {type: punctuation, offset: 408, content: /, id: KR3a0006_krp_010-bkkpn35}
   - {type: punctuation, offset: 423, content: ), id: KR3a0006_krp_010-bkkpn36}
   - {type: 'kr:newline', offset: 423, content: '
@@ -218,6 +223,7 @@ markers:
   - {type: punctuation, offset: 518, content: ), id: KR3a0006_krp_010-bkkpn45}
   - {type: punctuation, offset: 527, content: (, id: KR3a0006_krp_010-bkkpn46}
   - {type: variant, offset: 527, length: 2, content: 音磊, SBCK: ''}
+  - {type: voice, offset: 527, length: 2, name: note, id: n6}
   - {type: punctuation, offset: 528, content: /, id: KR3a0006_krp_010-bkkpn47}
   - {type: punctuation, offset: 529, content: ), id: KR3a0006_krp_010-bkkpn48}
   - {type: 'kr:newline', offset: 531, content: '
@@ -233,6 +239,7 @@ markers:
   - {type: variant, offset: 553, length: 1, content: 潛, SBCK: 潜}
   - {type: punctuation, offset: 557, content: (, id: KR3a0006_krp_010-bkkpn49}
   - {type: variant, offset: 557, length: 2, content: 音集, SBCK: ''}
+  - {type: voice, offset: 557, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 558, content: /, id: KR3a0006_krp_010-bkkpn50}
   - {type: punctuation, offset: 559, content: ), id: KR3a0006_krp_010-bkkpn51}
   - {type: 'kr:newline', offset: 572, content: '
@@ -247,6 +254,7 @@ markers:
   - {type: line-break, offset: 588, content: '', id: KR3a0006_WYG_010-2a08}
   - {type: punctuation, offset: 601, content: (, id: KR3a0006_krp_010-bkkpn52}
   - {type: variant, offset: 601, length: 2, content: 音蟬, SBCK: ''}
+  - {type: voice, offset: 601, length: 2, name: note, id: n8}
   - {type: punctuation, offset: 602, content: /, id: KR3a0006_krp_010-bkkpn53}
   - {type: punctuation, offset: 603, content: ), id: KR3a0006_krp_010-bkkpn54}
   - {type: 'kr:newline', offset: 610, content: '
@@ -264,6 +272,7 @@ markers:
   - {type: line-break, offset: 631, content: '', id: KR3a0006_WYG_010-2b02}
   - {type: variant, offset: 636, length: 4, content: 拏奴加切, SBCK: 挐}
   - {type: punctuation, offset: 637, content: (, id: KR3a0006_krp_010-bkkpn55}
+  - {type: voice, offset: 637, length: 3, name: note, id: n9}
   - {type: punctuation, offset: 639, content: /, id: KR3a0006_krp_010-bkkpn56}
   - {type: punctuation, offset: 640, content: ), id: KR3a0006_krp_010-bkkpn57}
   - {type: variant, offset: 648, length: 1, content: 邊, SBCK: 邉}
@@ -273,14 +282,17 @@ markers:
   - {type: line-break, offset: 653, content: '', id: KR3a0006_WYG_010-2b03}
   - {type: punctuation, offset: 665, content: (, id: KR3a0006_krp_010-bkkpn58}
   - {type: variant, offset: 665, length: 2, content: 音鋤, SBCK: ''}
+  - {type: voice, offset: 665, length: 2, name: note, id: n10}
   - {type: punctuation, offset: 666, content: /, id: KR3a0006_krp_010-bkkpn59}
   - {type: punctuation, offset: 667, content: ), id: KR3a0006_krp_010-bkkpn60}
   - {type: punctuation, offset: 672, content: (, id: KR3a0006_krp_010-bkkpn61}
   - {type: variant, offset: 672, length: 2, content: 音遂, SBCK: ''}
+  - {type: voice, offset: 672, length: 2, name: note, id: n11}
   - {type: punctuation, offset: 673, content: /, id: KR3a0006_krp_010-bkkpn62}
   - {type: punctuation, offset: 674, content: ), id: KR3a0006_krp_010-bkkpn63}
   - {type: punctuation, offset: 675, content: (, id: KR3a0006_krp_010-bkkpn64}
   - {type: variant, offset: 675, length: 2, content: 音煩, SBCK: ''}
+  - {type: voice, offset: 675, length: 2, name: note, id: n12}
   - {type: punctuation, offset: 676, content: /, id: KR3a0006_krp_010-bkkpn65}
   - {type: punctuation, offset: 677, content: ), id: KR3a0006_krp_010-bkkpn66}
   - {type: 'kr:newline', offset: 677, content: '
@@ -289,15 +301,18 @@ markers:
   - {type: line-break, offset: 677, content: '', id: KR3a0006_WYG_010-2b04}
   - {type: punctuation, offset: 678, content: (, id: KR3a0006_krp_010-bkkpn67}
   - {type: variant, offset: 678, length: 2, content: 音峯, SBCK: ''}
+  - {type: voice, offset: 678, length: 2, name: note, id: n13}
   - {type: punctuation, offset: 679, content: /, id: KR3a0006_krp_010-bkkpn68}
   - {type: punctuation, offset: 680, content: ), id: KR3a0006_krp_010-bkkpn69}
   - {type: punctuation, offset: 684, content: (, id: KR3a0006_krp_010-bkkpn70}
   - {type: variant, offset: 684, length: 2, content: 音胡, SBCK: ''}
+  - {type: voice, offset: 684, length: 2, name: note, id: n14}
   - {type: punctuation, offset: 685, content: /, id: KR3a0006_krp_010-bkkpn71}
   - {type: punctuation, offset: 686, content: ), id: KR3a0006_krp_010-bkkpn72}
   - {type: page-break, offset: 695, content: '', id: KR3a0006_SBCK_008-13a}
   - {type: punctuation, offset: 697, content: (, id: KR3a0006_krp_010-bkkpn73}
   - {type: variant, offset: 697, length: 2, content: 音保, SBCK: ''}
+  - {type: voice, offset: 697, length: 2, name: note, id: n15}
   - {type: punctuation, offset: 698, content: /, id: KR3a0006_krp_010-bkkpn74}
   - {type: punctuation, offset: 699, content: ), id: KR3a0006_krp_010-bkkpn75}
   - {type: 'kr:newline', offset: 701, content: '
@@ -307,6 +322,7 @@ markers:
   - {type: variant, offset: 711, length: 1, content: 忍, SBCK: 􅃘}
   - {type: punctuation, offset: 713, content: (, id: KR3a0006_krp_010-bkkpn76}
   - {type: variant, offset: 713, length: 268, content: 匈奴傳曰武帝即位明和親約束厚遇關市饒給之匈奴自單于以下皆親漢往來長城下漢使馬邑人聶翁信壹閒闌出物與匈奴交易陽為賣馬邑城以誘單于單于之而貪馬邑財物廼以十萬騎入武州塞伏兵三十餘萬馬邑旁御史大夫韓安國為䕶軍將軍䕶四將軍以伏單于單于既入漢塞未至馬邑百餘里見畜布野而無人牧者怪之乃攻亭時鴈門尉史行徼見冦保此亭單于得欲刺之尉史知漢謀廼下具告單于單于大驚曰吾固疑之乃引兵還出曰吾得尉史天也以尉史為天王漢兵約單于入馬邑而縱兵單于不至以故無所得將軍王恢部出代撃胡輜重聞單于還兵多不敢出漢以恢木建造兵謀而不進誅恢自是後匈奴絶和親攻當路塞往往入盗於邊不可勝數, SBCK: ''}
+  - {type: voice, offset: 713, length: 268, name: note, id: n16}
   - {type: punctuation, offset: 723, content: /, id: KR3a0006_krp_010-bkkpn77}
   - {type: punctuation, offset: 733, content: ), id: KR3a0006_krp_010-bkkpn78}
   - {type: 'kr:newline', offset: 733, content: '
@@ -361,6 +377,7 @@ markers:
   - {type: line-break, offset: 989, content: '', id: KR3a0006_WYG_010-3a04}
   - {type: punctuation, offset: 1000, content: (, id: KR3a0006_krp_010-bkkpn97}
   - {type: variant, offset: 1000, length: 86, content: 繆稱訓曰易曰即鹿無虞惟入于林中君子㡬不如舍往吝其施厚者其報美其怨大者其禍深薄施而厚望畜怨而無患者古今未之有也是故聖人察其所以往則知其所以來者復思篇曰施徳者貴不徳受恩者尚必報, SBCK: ''}
+  - {type: voice, offset: 1000, length: 86, name: note, id: n17}
   - {type: punctuation, offset: 1011, content: /, id: KR3a0006_krp_010-bkkpn98}
   - {type: punctuation, offset: 1022, content: ), id: KR3a0006_krp_010-bkkpn99}
   - {type: 'kr:newline', offset: 1022, content: '
@@ -384,6 +401,7 @@ markers:
   - {type: variant, offset: 1104, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 1114, content: (, id: KR3a0006_krp_010-bkkpn106}
   - {type: variant, offset: 1114, length: 2, content: 音扶, SBCK: ''}
+  - {type: voice, offset: 1114, length: 2, name: note, id: n18}
   - {type: punctuation, offset: 1115, content: /, id: KR3a0006_krp_010-bkkpn107}
   - {type: punctuation, offset: 1116, content: ), id: KR3a0006_krp_010-bkkpn108}
   - {type: 'kr:newline', offset: 1120, content: '
@@ -408,10 +426,12 @@ markers:
   - {type: indent, offset: 1160, content: 　, id: KR3a0006_krp_010-bkkind30}
   - {type: punctuation, offset: 1173, content: (, id: KR3a0006_krp_010-bkkpn109}
   - {type: variant, offset: 1173, length: 3, content: 一作臯, SBCK: ''}
+  - {type: voice, offset: 1173, length: 3, name: note, id: n19}
   - {type: punctuation, offset: 1175, content: /, id: KR3a0006_krp_010-bkkpn110}
   - {type: punctuation, offset: 1176, content: ), id: KR3a0006_krp_010-bkkpn111}
   - {type: punctuation, offset: 1177, content: (, id: KR3a0006_krp_010-bkkpn112}
   - {type: variant, offset: 1177, length: 2, content: 音宥, SBCK: ''}
+  - {type: voice, offset: 1177, length: 2, name: note, id: n20}
   - {type: punctuation, offset: 1178, content: /, id: KR3a0006_krp_010-bkkpn113}
   - {type: punctuation, offset: 1179, content: ), id: KR3a0006_krp_010-bkkpn114}
   - {type: variant, offset: 1180, length: 1, content: 㑹, SBCK: 會}
@@ -422,10 +442,12 @@ markers:
   - {type: indent, offset: 1182, content: 　, id: KR3a0006_krp_010-bkkind31}
   - {type: punctuation, offset: 1184, content: (, id: KR3a0006_krp_010-bkkpn115}
   - {type: variant, offset: 1184, length: 2, content: 音怠, SBCK: ''}
+  - {type: voice, offset: 1184, length: 2, name: note, id: n21}
   - {type: punctuation, offset: 1185, content: /, id: KR3a0006_krp_010-bkkpn116}
   - {type: punctuation, offset: 1186, content: ), id: KR3a0006_krp_010-bkkpn117}
   - {type: punctuation, offset: 1189, content: (, id: KR3a0006_krp_010-bkkpn118}
   - {type: variant, offset: 1189, length: 39, content: 春秋曰春王正月公在楚公羊傳曰何言乎公在楚正月以存君也春秋曰五月公及諸侯盟于臯鼬, SBCK: ''}
+  - {type: voice, offset: 1189, length: 39, name: note, id: n22}
   - {type: punctuation, offset: 1203, content: /, id: KR3a0006_krp_010-bkkpn119}
   - {type: punctuation, offset: 1217, content: ), id: KR3a0006_krp_010-bkkpn120}
   - {type: 'kr:newline', offset: 1217, content: '
@@ -438,6 +460,7 @@ markers:
   - {type: punctuation, offset: 1228, content: ), id: KR3a0006_krp_010-bkkpn123}
   - {type: punctuation, offset: 1231, content: (, id: KR3a0006_krp_010-bkkpn124}
   - {type: variant, offset: 1231, length: 2, content: 音朔, SBCK: ''}
+  - {type: voice, offset: 1231, length: 2, name: note, id: n23}
   - {type: punctuation, offset: 1232, content: /, id: KR3a0006_krp_010-bkkpn125}
   - {type: punctuation, offset: 1233, content: ), id: KR3a0006_krp_010-bkkpn126}
   - {type: variant, offset: 1242, length: 1, content: 盗, SBCK: 盜}
@@ -462,6 +485,7 @@ markers:
   - {type: indent, offset: 1283, content: 　, id: KR3a0006_krp_010-bkkind35}
   - {type: punctuation, offset: 1284, content: (, id: KR3a0006_krp_010-bkkpn127}
   - {type: variant, offset: 1284, length: 65, content: 修務訓曰身正性善發憤而成仁㡌憑而為義性命可説不待學問而合於道者堯舜文王也沉䤄耽荒不可教以道不可喻以徳嚴父弗能正賢師不能化丹朱商均也, SBCK: ''}
+  - {type: voice, offset: 1284, length: 65, name: note, id: n24}
   - {type: punctuation, offset: 1304, content: /, id: KR3a0006_krp_010-bkkpn128}
   - {type: punctuation, offset: 1323, content: ), id: KR3a0006_krp_010-bkkpn129}
   - {type: 'kr:newline', offset: 1323, content: '
@@ -491,6 +515,7 @@ markers:
   - {type: variant, offset: 1374, length: 1, content: 凰, SBCK: 皇}
   - {type: punctuation, offset: 1383, content: (, id: KR3a0006_krp_010-bkkpn133}
   - {type: variant, offset: 1383, length: 3, content: 音叟羣, SBCK: 群}
+  - {type: voice, offset: 1383, length: 2, name: note, id: n25}
   - {type: punctuation, offset: 1384, content: /, id: KR3a0006_krp_010-bkkpn134}
   - {type: punctuation, offset: 1385, content: ), id: KR3a0006_krp_010-bkkpn135}
   - {type: variant, offset: 1387, length: 1, content: 庶, SBCK: 庻}
@@ -502,6 +527,7 @@ markers:
   - {type: variant, offset: 1398, length: 1, content: 辯, SBCK: 辦}
   - {type: punctuation, offset: 1410, content: (, id: KR3a0006_krp_010-bkkpn136}
   - {type: variant, offset: 1410, length: 113, content: 秦族訓曰聖人在上廓然無形寂然無聲官府若無事朝廷若無人無隠士無軼民無勞役無寃刑四海之内莫不仰上之徳象主之指夷狄之國重譯而至非户辯而家説之也推其誠心施之天下而已矣詩曰惠此中國以綏四方内順而外寜矣傳曰有聲之聲不過百里無聲之聲施及四海, SBCK: ''}
+  - {type: voice, offset: 1410, length: 113, name: note, id: n26}
   - {type: punctuation, offset: 1413, content: /, id: KR3a0006_krp_010-bkkpn137}
   - {type: punctuation, offset: 1416, content: ), id: KR3a0006_krp_010-bkkpn138}
   - {type: 'kr:newline', offset: 1416, content: '
@@ -527,6 +553,7 @@ markers:
   - {type: punctuation, offset: 1523, content: ), id: KR3a0006_krp_010-bkkpn147}
   - {type: punctuation, offset: 1525, content: (, id: KR3a0006_krp_010-bkkpn148}
   - {type: variant, offset: 1525, length: 2, content: 音禮, SBCK: ''}
+  - {type: voice, offset: 1525, length: 2, name: note, id: n27}
   - {type: punctuation, offset: 1526, content: /, id: KR3a0006_krp_010-bkkpn149}
   - {type: punctuation, offset: 1527, content: ), id: KR3a0006_krp_010-bkkpn150}
   - {type: 'kr:newline', offset: 1533, content: '
@@ -535,6 +562,7 @@ markers:
   - {type: line-break, offset: 1533, content: '', id: KR3a0006_WYG_010-4a07}
   - {type: variant, offset: 1536, length: 3, content: 為伯音, SBCK: 爲}
   - {type: punctuation, offset: 1538, content: (, id: KR3a0006_krp_010-bkkpn151}
+  - {type: voice, offset: 1538, length: 2, name: note, id: n28}
   - {type: punctuation, offset: 1539, content: /, id: KR3a0006_krp_010-bkkpn152}
   - {type: punctuation, offset: 1540, content: ), id: KR3a0006_krp_010-bkkpn153}
   - {type: variant, offset: 1549, length: 1, content: 教, SBCK: 敎}
@@ -544,6 +572,7 @@ markers:
   - {type: line-break, offset: 1555, content: '', id: KR3a0006_WYG_010-4a08}
   - {type: punctuation, offset: 1558, content: (, id: KR3a0006_krp_010-bkkpn154}
   - {type: variant, offset: 1558, length: 97, content: 傳曰蠒之性為絲弗得女工燔以沸湯抽其統理不成為絲卵之性為雛不得良雞覆伏孚育積日累乆則不成為雛夫人性善非得明王聖主扶携内之以道則不成為君子詩曰天生蒸民其命匪諶靡不有初鮮克有終言惟明王聖主然後使之然也, SBCK: ''}
+  - {type: voice, offset: 1558, length: 97, name: note, id: n29}
   - {type: punctuation, offset: 1576, content: /, id: KR3a0006_krp_010-bkkpn155}
   - {type: punctuation, offset: 1594, content: ), id: KR3a0006_krp_010-bkkpn156}
   - {type: 'kr:newline', offset: 1594, content: '
@@ -576,6 +605,7 @@ markers:
   - {type: line-break, offset: 1687, content: '', id: KR3a0006_WYG_010-4b04}
   - {type: punctuation, offset: 1692, content: (, id: KR3a0006_krp_010-bkkpn163}
   - {type: variant, offset: 1692, length: 333, content: 周紀曰公劉雖在戎狄之間復修后稷之業務耕種行地宜自漆沮渡渭取財用行者有資居者有畜積民頼其慶百姓懐之多徙而保歸焉周道之興自此始故詩人歌樂思其徳道應篇曰大王亶父居邠翟人攻之事之以皮帛珠玉而弗受曰翟人之所求者地無以財物為也大王亶父曰與人之兄居而殺其弟與人之父處而殺其子弗為皆勉處矣為吾臣與翟人奚以異且吾聞之也不以其所養害其養杖䇿而去民相連而從之遂成國於岐山之下辨物篇曰成王時有三苗貫桑而生同為一秀大幾盈車民得而上之成王成王問周公此何也周公曰三苗同秀為一意天下其和而為一乎後三年則越裳氏重譯而朝曰道路悠逺山川阻深恐一使之不通故重三譯而來朝也周公曰徳澤不加則君子不饗其質政令不施則君子不臣其人譯曰吾受命於吾國之黄髪乆矣天之無烈風滛雨意中國有聖人耶有則盍朝之然後周公敬受其所以來矣, SBCK: ''}
+  - {type: voice, offset: 1692, length: 333, name: note, id: n30}
   - {type: punctuation, offset: 1708, content: /, id: KR3a0006_krp_010-bkkpn164}
   - {type: punctuation, offset: 1724, content: ), id: KR3a0006_krp_010-bkkpn165}
   - {type: 'kr:newline', offset: 1724, content: '
@@ -660,6 +690,7 @@ markers:
   - {type: indent, offset: 2051, content: 　, id: KR3a0006_krp_010-bkkind38}
   - {type: punctuation, offset: 2059, content: (, id: KR3a0006_krp_010-bkkpn190}
   - {type: variant, offset: 2059, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 2059, length: 2, name: note, id: n31}
   - {type: punctuation, offset: 2060, content: /, id: KR3a0006_krp_010-bkkpn191}
   - {type: punctuation, offset: 2061, content: ), id: KR3a0006_krp_010-bkkpn192}
   - {type: variant, offset: 2063, length: 1, content: 横, SBCK: 橫}
@@ -670,11 +701,13 @@ markers:
   - {type: indent, offset: 2072, content: 　, id: KR3a0006_krp_010-bkkind39}
   - {type: punctuation, offset: 2073, content: (, id: KR3a0006_krp_010-bkkpn193}
   - {type: variant, offset: 2073, length: 2, content: 音斤, SBCK: ''}
+  - {type: voice, offset: 2073, length: 2, name: note, id: n32}
   - {type: punctuation, offset: 2074, content: /, id: KR3a0006_krp_010-bkkpn194}
   - {type: punctuation, offset: 2075, content: ), id: KR3a0006_krp_010-bkkpn195}
   - {type: variant, offset: 2079, length: 1, content: 斤, SBCK: 金}
   - {type: punctuation, offset: 2084, content: (, id: KR3a0006_krp_010-bkkpn196}
   - {type: variant, offset: 2084, length: 59, content: 賈誼曰屠牛坦一朝解十二牛而芒刃不頓者所排撃剥割皆衆理解也至於寛髀之所非斤則斧夫仁義恩厚人主之芒刃也權勢法制人主之斤斧也, SBCK: ''}
+  - {type: voice, offset: 2084, length: 59, name: note, id: n33}
   - {type: punctuation, offset: 2093, content: /, id: KR3a0006_krp_010-bkkpn197}
   - {type: punctuation, offset: 2102, content: ), id: KR3a0006_krp_010-bkkpn198}
   - {type: 'kr:newline', offset: 2102, content: '
@@ -704,6 +737,7 @@ markers:
   - {type: indent, offset: 2162, content: 　, id: KR3a0006_krp_010-bkkind42}
   - {type: punctuation, offset: 2171, content: (, id: KR3a0006_krp_010-bkkpn205}
   - {type: variant, offset: 2171, length: 349, content: 用兵紀曰古之賢王有義兵而無偃兵家無怒笞則豎子嬰兒之有過也立見國無刑罰則百姓之誤相侵也立見天下無誅伐則諸侯之相暴也立見故怒笞不可偃於家刑罰不可偃於國誅伐不可偃於天下有巧有拙而已矣故古之聖王有義兵而無偃兵孟子曰湯居亳與葛為鄰葛伯放而不祀湯使人問之曰何為不祀曰無以供犠牲也湯使遺之牛羊葛伯食之又不以祀湯又使人問之曰何為不祀曰無以供粢盛也湯使亳衆往為之耕老弱饋食葛伯率其民要其有酒食黍稻者奪之不授者殺之有童子以黍肉餉而奪之書曰葛伯仇餉此之謂也為其殺是童子而征之四海之内皆曰非富天下也為匹夫匹婦復讐也匈奴傳曰周西伯昌伐畎夷詩曰肆不殄厥愠亦不殞厥問柞棫㧞矣行道兊矣混夷駾矣維其喙矣顔師古曰西伯昌即文王畎夷即畎戎也又曰昆夷山海經云黄帝生苗龍苗龍生融吾融吾生弄明弄明生白犬犬有二牝牡是為犬戎許慎曰赤狄本犬種故字從犬, SBCK: ''}
+  - {type: voice, offset: 2171, length: 349, name: note, id: n34}
   - {type: punctuation, offset: 2182, content: /, id: KR3a0006_krp_010-bkkpn206}
   - {type: punctuation, offset: 2193, content: ), id: KR3a0006_krp_010-bkkpn207}
   - {type: 'kr:newline', offset: 2193, content: '
@@ -789,6 +823,7 @@ markers:
   - {type: line-break, offset: 2536, content: '', id: KR3a0006_WYG_010-6a05}
   - {type: indent, offset: 2536, content: 　, id: KR3a0006_krp_010-bkkind52}
   - {type: punctuation, offset: 2536, content: (, id: KR3a0006_krp_010-bkkpn235}
+  - {type: voice, offset: 2536, length: 6, name: note, id: n35}
   - {type: punctuation, offset: 2539, content: /, id: KR3a0006_krp_010-bkkpn236}
   - {type: punctuation, offset: 2542, content: ), id: KR3a0006_krp_010-bkkpn237}
   - {type: 'kr:newline', offset: 2559, content: '
@@ -800,6 +835,7 @@ markers:
   - {type: variant, offset: 2562, length: 1, content: 朔, SBCK: 􅃋}
   - {type: punctuation, offset: 2564, content: (, id: KR3a0006_krp_010-bkkpn238}
   - {type: variant, offset: 2564, length: 98, content: 匈奴傳曰周懿王時王室遂衰戎狄交侵暴虐中國中國被其苦詩人始作疾而歌之曰靡室靡家獫狁之故豈不日戒獫狁孔棘至懿王曾孫宣王興師命將以征伐之詩人美大其功曰薄伐獫狁至于太原出車彭彭城彼朔方是時四夷賔服稱為中興, SBCK: ''}
+  - {type: voice, offset: 2564, length: 98, name: note, id: n36}
   - {type: punctuation, offset: 2579, content: /, id: KR3a0006_krp_010-bkkpn239}
   - {type: punctuation, offset: 2594, content: ), id: KR3a0006_krp_010-bkkpn240}
   - {type: 'kr:newline', offset: 2594, content: '
@@ -829,6 +865,7 @@ markers:
   - {type: indent, offset: 2668, content: 　, id: KR3a0006_krp_010-bkkind56}
   - {type: punctuation, offset: 2680, content: (, id: KR3a0006_krp_010-bkkpn247}
   - {type: variant, offset: 2680, length: 2, content: 音磊, SBCK: ''}
+  - {type: voice, offset: 2680, length: 2, name: note, id: n37}
   - {type: punctuation, offset: 2681, content: /, id: KR3a0006_krp_010-bkkpn248}
   - {type: punctuation, offset: 2682, content: ), id: KR3a0006_krp_010-bkkpn249}
   - {type: variant, offset: 2685, length: 1, content: 暴, SBCK: 􅁀}
@@ -840,6 +877,7 @@ markers:
   - {type: variant, offset: 2703, length: 1, content: 懐, SBCK: 懷}
   - {type: punctuation, offset: 2706, content: (, id: KR3a0006_krp_010-bkkpn250}
   - {type: variant, offset: 2706, length: 203, content: 大禹謨曰三旬苗民逆命益贊于禹曰惟徳動天無逺弗屇滿招損謙受益時乃天道至諴感神矧兹有苗禹拜昌言曰俞班師振旅帝乃誕敷文徳舞干羽于兩階七旬有苗格道應篇曰文王砥徳修政二年而天下二垂歸之人間訓曰文王葬死人之骸而九夷歸之詩云鎬京辟音璧雍自西自東自南自北無思不服修文篇曰天下有道則禮樂征伐自天子出夫功成制禮治定作樂禮樂者行化之大者也孔子曰移風易俗莫善於樂安上治民莫善於禮是故聖王修禮文設庠序陳鐘鼓天子辟雍諸侯泮官所以行徳化, SBCK: ''}
+  - {type: voice, offset: 2706, length: 103, name: note, id: n38}
   - {type: punctuation, offset: 2708, content: /, id: KR3a0006_krp_010-bkkpn251}
   - {type: punctuation, offset: 2710, content: ), id: KR3a0006_krp_010-bkkpn252}
   - {type: 'kr:newline', offset: 2710, content: '
@@ -864,6 +902,7 @@ markers:
   - {type: punctuation, offset: 2802, content: /, id: KR3a0006_krp_010-bkkpn260}
   - {type: punctuation, offset: 2809, content: ), id: KR3a0006_krp_010-bkkpn261}
   - {type: punctuation, offset: 2814, content: (, id: KR3a0006_krp_010-bkkpn262}
+  - {type: voice, offset: 2814, length: 2, name: note, id: n39}
   - {type: punctuation, offset: 2815, content: /, id: KR3a0006_krp_010-bkkpn263}
   - {type: punctuation, offset: 2816, content: ), id: KR3a0006_krp_010-bkkpn264}
   - {type: 'kr:newline', offset: 2823, content: '
@@ -871,6 +910,7 @@ markers:
       ', id: KR3a0006_krp_010-bkkkrnewl104}
   - {type: line-break, offset: 2823, content: '', id: KR3a0006_WYG_010-6b06}
   - {type: punctuation, offset: 2829, content: (, id: KR3a0006_krp_010-bkkpn265}
+  - {type: voice, offset: 2829, length: 102, name: note, id: n40}
   - {type: punctuation, offset: 2844, content: /, id: KR3a0006_krp_010-bkkpn266}
   - {type: punctuation, offset: 2859, content: ), id: KR3a0006_krp_010-bkkpn267}
   - {type: 'kr:newline', offset: 2859, content: '
@@ -911,6 +951,7 @@ markers:
   - {type: line-break, offset: 2979, content: '', id: KR3a0006_WYG_010-7a03}
   - {type: punctuation, offset: 2990, content: (, id: KR3a0006_krp_010-bkkpn274}
   - {type: variant, offset: 2990, length: 34, content: 兵略訓曰善守者無與御善戰者無與闘泰族訓曰守不待渠壍而固攻不待衝隆而㧞, SBCK: ''}
+  - {type: voice, offset: 2990, length: 34, name: note, id: n41}
   - {type: punctuation, offset: 3000, content: /, id: KR3a0006_krp_010-bkkpn275}
   - {type: punctuation, offset: 3010, content: ), id: KR3a0006_krp_010-bkkpn276}
   - {type: 'kr:newline', offset: 3010, content: '
@@ -932,6 +973,7 @@ markers:
   - {type: variant, offset: 3053, length: 1, content: 徳, SBCK: 德}
   - {type: punctuation, offset: 3056, content: (, id: KR3a0006_krp_010-bkkpn280}
   - {type: variant, offset: 3056, length: 760, content: 帝王世紀曰武王見暍人王自左擁而右扇之紂政彌亂殷太史向摯載其圖書而歸周王以告于諸侯四年起師而東至商郊牧野乃作木檐王韈係解五人御於前莫肯為王係韈皆曰臣所以事君王非為係韈也王乃釋旄鉞而係之與紂戰紂師敗績禽費仲惡來紂赴于京自燔于宣室而死二嬖妾與妲己亦自殺乃以大白髦麾諸侯入殷商都百姓咸待于郊王使告曰上天降休商人皆拜王亦答拜以兵入造紂及妲己尸王親射之三發然後下車以劒擊之周公為司徒使以黄鉞斬紂頭懸于大白之旗召公為司空又使以𤣥鉞斬妲己頸懸之小白旗置旌於商容之廬命召公釋箕子之囚賜貝千朋命原公釋百姓之囚歸璇臺之珠玉命南宫括散鹿臺之財發巨橋之粟以賑貧民命南宫伯逹史逸遷九鼎于洛邑命閎天封比干之墓命宗祝饗祀于軍㣲子膠鬲皆委質為臣殷人咸喜曰王之於人也死猶封其墓况其生者乎王之於賢仁也亡者猶表其廬况其存者乎王之於財也聚者猶散之况其復藉者乎王之於色也在者猶歸其父母况復徵之乎貴徳篇曰武王克殷召太公而問曰將奈其士衆何太公對曰臣聞愛其人者兼屋上之烏憎其人者惡其餘胥咸劉厥敵使靡有餘何如王曰不可太公出邵公入王曰為之奈何邵公對曰有罪者殺之無罪者活之何如王曰不可邵公出周公入王曰為之奈何周公曰使各居其宅田其田無變舊新唯仁是親百姓有過在於一人武王曰廣大乎平天下矣凡所以貴士君子者以其仁而有徳也道應篇曰武王問太公曰寡人伐紂天下是臣殺其主而下伐其上也吾恐後世之用兵不休闘爭不已為之奈何太公曰甚善王之問也夫未得獸者唯恐其創之小也已得之惟恐傷肉之多也王若欲乆持之則塞民於兊道全為無用之事順擾之教彼皆樂其業供其事情昭昭而道冥冥於是乃去其瞀而載之木解其劒而帶之笏為三年之䘮令類不蕃髙辭卑讓使民不爭酒肉以通之竽瑟以娱之鬼神以畏之繁文滋禮以弇其質厚葬乆䘮以亶其家含珠鱗施綸組以貧其財深鑿髙壟以盡其力家貧族少慮患者寡以此移風可以持天下弗失故老子曰化而欲作吾將鎮之以無名之樸也, SBCK: ''}
+  - {type: voice, offset: 3056, length: 760, name: note, id: n42}
   - {type: punctuation, offset: 3059, content: /, id: KR3a0006_krp_010-bkkpn281}
   - {type: punctuation, offset: 3062, content: ), id: KR3a0006_krp_010-bkkpn282}
   - {type: 'kr:newline', offset: 3062, content: '
@@ -1074,6 +1116,7 @@ markers:
   - {type: line-break, offset: 3817, content: '', id: KR3a0006_WYG_010-8a08}
   - {type: punctuation, offset: 3832, content: (, id: KR3a0006_krp_010-bkkpn337}
   - {type: variant, offset: 3832, length: 2, content: 音扶, SBCK: ''}
+  - {type: voice, offset: 3832, length: 2, name: note, id: n43}
   - {type: punctuation, offset: 3833, content: /, id: KR3a0006_krp_010-bkkpn338}
   - {type: punctuation, offset: 3834, content: ), id: KR3a0006_krp_010-bkkpn339}
   - {type: 'kr:newline', offset: 3839, content: '
@@ -1086,6 +1129,7 @@ markers:
   - {type: line-break, offset: 3839, content: '', id: KR3a0006_WYG_010-8b01}
   - {type: variant, offset: 3844, length: 411, content: 也賈誼曰陳渉之位不尊於齊楚趙韓魏宋衞中山之君也鉏耰棘矜不銛於鉤㦸長鎩也謫戍之衆非抗九國之師也深謀逺慮行軍用兵之道非及曩時之士也然而成敗異變功業相反試使山東之國與陳渉度長絜大比權量力則不可同年而語矣然秦以區區之地致萬乗之權招八州而朝同列百有餘年矣然後以六合為家崤函為宫一夫作難而七廟墮身死人手為天下笑者何也仁義不施而攻守之勢異也又曰秦王懐貪鄙之心行自奮之智不信功臣不親士民廢王道而立私愛焚文書而酷刑法先詐力而後仁義以暴虐為天下始夫兼并者髙詐力安危者貴順權以此言之取予攻守不同術也秦雖離戰國而王天下其道不易其政不改是以其所以取之也孤獨而有之故其亡可立而待也班固曰古人有言天生五材民並用之廢一不可誰能去兵鞭朴不可弛於家刑罰不可廢於國征伐不可偃於天下用之有本末行之有逆順者耳孔子曰工欲善其事必先利其器文徳者帝王之利器威武者文徳之輔助也夫文之所加者深則武之所服者大徳之所施者博則威之所制者廣三代之盛至于刑措兵寢者其本末有序帝王之極功, SBCK: ''}
   - {type: punctuation, offset: 3845, content: (, id: KR3a0006_krp_010-bkkpn340}
+  - {type: voice, offset: 3845, length: 411, name: note, id: n44}
   - {type: punctuation, offset: 3860, content: /, id: KR3a0006_krp_010-bkkpn341}
   - {type: punctuation, offset: 3875, content: ), id: KR3a0006_krp_010-bkkpn342}
   - {type: 'kr:newline', offset: 3875, content: '
@@ -1174,6 +1218,7 @@ markers:
   - {type: indent, offset: 4276, content: 　, id: KR3a0006_krp_010-bkkind58}
   - {type: punctuation, offset: 4287, content: (, id: KR3a0006_krp_010-bkkpn373}
   - {type: variant, offset: 4287, length: 50, content: 汜論曰夫神農伏犧不施賞罰而民不為非然而立政者不能廢法而治民舜干戚而服有苗然而征伐者不能釋甲兵而制强暴, SBCK: ''}
+  - {type: voice, offset: 4287, length: 50, name: note, id: n45}
   - {type: punctuation, offset: 4296, content: /, id: KR3a0006_krp_010-bkkpn374}
   - {type: punctuation, offset: 4305, content: ), id: KR3a0006_krp_010-bkkpn375}
   - {type: 'kr:newline', offset: 4305, content: '
@@ -1191,6 +1236,7 @@ markers:
   - {type: indent, offset: 4341, content: 　, id: KR3a0006_krp_010-bkkind60}
   - {type: variant, offset: 4344, length: 53, content: 預禦之春秋曰公追戎於濟西公羊傳曰此未有言伐者其言追何大其為中國追也此未有伐中國者則言其為中國追何大其未至而, SBCK: ''}
   - {type: punctuation, offset: 4347, content: (, id: KR3a0006_krp_010-bkkpn379}
+  - {type: voice, offset: 4347, length: 63, name: note, id: n46}
   - {type: punctuation, offset: 4361, content: /, id: KR3a0006_krp_010-bkkpn380}
   - {type: punctuation, offset: 4375, content: ), id: KR3a0006_krp_010-bkkpn381}
   - {type: 'kr:newline', offset: 4375, content: '
@@ -1219,10 +1265,12 @@ markers:
   - {type: indent, offset: 4432, content: 　, id: KR3a0006_krp_010-bkkind63}
   - {type: variant, offset: 4436, length: 3, content: 戍音絮, SBCK: 戌}
   - {type: punctuation, offset: 4437, content: (, id: KR3a0006_krp_010-bkkpn385}
+  - {type: voice, offset: 4437, length: 2, name: note, id: n47}
   - {type: punctuation, offset: 4438, content: /, id: KR3a0006_krp_010-bkkpn386}
   - {type: punctuation, offset: 4439, content: ), id: KR3a0006_krp_010-bkkpn387}
   - {type: punctuation, offset: 4445, content: (, id: KR3a0006_krp_010-bkkpn388}
   - {type: variant, offset: 4445, length: 2, content: 音逸, SBCK: ''}
+  - {type: voice, offset: 4445, length: 2, name: note, id: n48}
   - {type: punctuation, offset: 4446, content: /, id: KR3a0006_krp_010-bkkpn389}
   - {type: punctuation, offset: 4447, content: ), id: KR3a0006_krp_010-bkkpn390}
   - {type: 'kr:newline', offset: 4454, content: '
@@ -1232,6 +1280,7 @@ markers:
   - {type: indent, offset: 4454, content: 　, id: KR3a0006_krp_010-bkkind64}
   - {type: variant, offset: 4464, length: 2, content: 澹古, SBCK: ''}
   - {type: punctuation, offset: 4465, content: (, id: KR3a0006_krp_010-bkkpn391}
+  - {type: voice, offset: 4465, length: 3, name: note, id: n49}
   - {type: punctuation, offset: 4467, content: /, id: KR3a0006_krp_010-bkkpn392}
   - {type: variant, offset: 4467, length: 1, content: 字, SBCK: ''}
   - {type: punctuation, offset: 4468, content: ), id: KR3a0006_krp_010-bkkpn393}
@@ -1243,6 +1292,7 @@ markers:
   - {type: variant, offset: 4483, length: 1, content: 邊, SBCK: 邉}
   - {type: punctuation, offset: 4485, content: (, id: KR3a0006_krp_010-bkkpn394}
   - {type: variant, offset: 4485, length: 51, content: 食貨志曰縣官不給天子乃損膳解乗輿駟出御府禁藏以澹之其明年山東被水災民多飢乏於是天子遣使虚郡國倉廪以賑貧, SBCK: ''}
+  - {type: voice, offset: 4485, length: 51, name: note, id: n50}
   - {type: punctuation, offset: 4495, content: /, id: KR3a0006_krp_010-bkkpn395}
   - {type: punctuation, offset: 4505, content: ), id: KR3a0006_krp_010-bkkpn396}
   - {type: 'kr:newline', offset: 4505, content: '
@@ -1269,6 +1319,7 @@ markers:
   - {type: line-break, offset: 4573, content: '', id: KR3a0006_WYG_010-9b08}
   - {type: variant, offset: 4583, length: 2, content: 陳古, SBCK: ''}
   - {type: punctuation, offset: 4584, content: (, id: KR3a0006_krp_010-bkkpn400}
+  - {type: voice, offset: 4584, length: 3, name: note, id: n51}
   - {type: punctuation, offset: 4586, content: /, id: KR3a0006_krp_010-bkkpn401}
   - {type: variant, offset: 4586, length: 1, content: 字, SBCK: ''}
   - {type: punctuation, offset: 4587, content: ), id: KR3a0006_krp_010-bkkpn402}
@@ -1282,6 +1333,7 @@ markers:
   - {type: line-break, offset: 4595, content: '', id: KR3a0006_WYG_010-10a01}
   - {type: punctuation, offset: 4599, content: (, id: KR3a0006_krp_010-bkkpn403}
   - {type: variant, offset: 4599, length: 209, content: 覽㝠訓曰晩世之時七國異族諸侯制法各殊習俗縱横間之舉兵而相角攻城濫殺覆髙危安掘墳墓揚人骸大衝車髙重京除戰道犯嚴敵殘不義百往一反聲苟盛也是故壯質輕足者為甲卒千里之外家老羸弱悽愴於内厮徒馬圉軵車奉饟道馬遼逺霜雪亟集短褐不完人羸車弊泥塗至膝相携於道奮首於路身枕格而死所謂兼國有地者伏尸數十萬破車以千百數傷弓弩矛㦸矢石之創者扶舉於路故世至於枕人頭食人肉飲人血廿之芻豢故自三代以後者未嘗得安其情性而樂其習俗保其修命天而不夭於人虐也, SBCK: ''}
+  - {type: voice, offset: 4599, length: 209, name: note, id: n52}
   - {type: punctuation, offset: 4616, content: /, id: KR3a0006_krp_010-bkkpn404}
   - {type: punctuation, offset: 4633, content: ), id: KR3a0006_krp_010-bkkpn405}
   - {type: 'kr:newline', offset: 4633, content: '
@@ -1322,6 +1374,7 @@ markers:
   - {type: variant, offset: 4811, length: 1, content: 為, SBCK: 爲}
   - {type: variant, offset: 4819, length: 3, content: 繇音遥, SBCK: 徭}
   - {type: punctuation, offset: 4820, content: (, id: KR3a0006_krp_010-bkkpn421}
+  - {type: voice, offset: 4820, length: 2, name: note, id: n53}
   - {type: punctuation, offset: 4821, content: /, id: KR3a0006_krp_010-bkkpn422}
   - {type: punctuation, offset: 4822, content: ), id: KR3a0006_krp_010-bkkpn423}
   - {type: variant, offset: 4823, length: 1, content: 逺, SBCK: 遠}
@@ -1331,10 +1384,12 @@ markers:
   - {type: line-break, offset: 4826, content: '', id: KR3a0006_WYG_010-10a07}
   - {type: punctuation, offset: 4836, content: (, id: KR3a0006_krp_010-bkkpn424}
   - {type: variant, offset: 4836, length: 2, content: 音遥, SBCK: ''}
+  - {type: voice, offset: 4836, length: 2, name: note, id: n54}
   - {type: punctuation, offset: 4837, content: /, id: KR3a0006_krp_010-bkkpn425}
   - {type: punctuation, offset: 4838, content: ), id: KR3a0006_krp_010-bkkpn426}
   - {type: punctuation, offset: 4843, content: (, id: KR3a0006_krp_010-bkkpn427}
   - {type: variant, offset: 4843, length: 64, content: 詩傳曰太平之時民行役者不踰時男女不失時以偶孝子不失時以養外無曠夫内無怨女上無不慈之父下無不孝之子父子相成夫婦相保天下和平國家安寧, SBCK: ''}
+  - {type: voice, offset: 4843, length: 64, name: note, id: n55}
   - {type: punctuation, offset: 4848, content: /, id: KR3a0006_krp_010-bkkpn428}
   - {type: punctuation, offset: 4853, content: ), id: KR3a0006_krp_010-bkkpn429}
   - {type: 'kr:newline', offset: 4853, content: '
@@ -1362,10 +1417,12 @@ markers:
   - {type: line-break, offset: 4922, content: '', id: KR3a0006_WYG_010-10b02}
   - {type: punctuation, offset: 4922, content: (, id: KR3a0006_krp_010-bkkpn436}
   - {type: variant, offset: 4922, length: 2, content: 音掌, SBCK: ''}
+  - {type: voice, offset: 4922, length: 2, name: note, id: n56}
   - {type: punctuation, offset: 4923, content: /, id: KR3a0006_krp_010-bkkpn437}
   - {type: punctuation, offset: 4924, content: ), id: KR3a0006_krp_010-bkkpn438}
   - {type: punctuation, offset: 4937, content: (, id: KR3a0006_krp_010-bkkpn439}
   - {type: variant, offset: 4937, length: 2, content: 音悶, SBCK: ''}
+  - {type: voice, offset: 4937, length: 2, name: note, id: n57}
   - {type: punctuation, offset: 4938, content: /, id: KR3a0006_krp_010-bkkpn440}
   - {type: punctuation, offset: 4939, content: ), id: KR3a0006_krp_010-bkkpn441}
   - {type: 'kr:newline', offset: 4945, content: '
@@ -1376,6 +1433,7 @@ markers:
   - {type: variant, offset: 4960, length: 1, content: 為, SBCK: 爲}
   - {type: variant, offset: 4962, length: 53, content: 也詩序曰文王之時西有昆夷之患北有玁狁之難以天子之命命將率遣戍役以守衞中國故歌采薇以遣之出車以勞還枤杜以勤歸, SBCK: ''}
   - {type: punctuation, offset: 4963, content: (, id: KR3a0006_krp_010-bkkpn442}
+  - {type: voice, offset: 4963, length: 53, name: note, id: n58}
   - {type: punctuation, offset: 4966, content: /, id: KR3a0006_krp_010-bkkpn443}
   - {type: punctuation, offset: 4969, content: ), id: KR3a0006_krp_010-bkkpn444}
   - {type: 'kr:newline', offset: 4969, content: '
@@ -1411,6 +1469,7 @@ markers:
   - {type: indent, offset: 5041, content: 　, id: KR3a0006_krp_010-bkkind70}
   - {type: punctuation, offset: 5041, content: (, id: KR3a0006_krp_010-bkkpn451}
   - {type: variant, offset: 5041, length: 2, content: 音脚, SBCK: ''}
+  - {type: voice, offset: 5041, length: 2, name: note, id: n59}
   - {type: punctuation, offset: 5042, content: /, id: KR3a0006_krp_010-bkkpn452}
   - {type: punctuation, offset: 5043, content: ), id: KR3a0006_krp_010-bkkpn453}
   - {type: 'kr:newline', offset: 5062, content: '
@@ -1426,6 +1485,7 @@ markers:
   - {type: variant, offset: 5068, length: 1, content: 蜯, SBCK: 倡}
   - {type: punctuation, offset: 5076, content: (, id: KR3a0006_krp_010-bkkpn454}
   - {type: variant, offset: 5076, length: 3, content: 通作擒, SBCK: ''}
+  - {type: voice, offset: 5076, length: 3, name: note, id: n60}
   - {type: punctuation, offset: 5078, content: /, id: KR3a0006_krp_010-bkkpn455}
   - {type: punctuation, offset: 5079, content: ), id: KR3a0006_krp_010-bkkpn456}
   - {type: 'kr:newline', offset: 5083, content: '
@@ -1435,10 +1495,12 @@ markers:
   - {type: indent, offset: 5083, content: 　, id: KR3a0006_krp_010-bkkind72}
   - {type: punctuation, offset: 5083, content: (, id: KR3a0006_krp_010-bkkpn457}
   - {type: variant, offset: 5083, length: 2, content: 音式, SBCK: ''}
+  - {type: voice, offset: 5083, length: 2, name: note, id: n61}
   - {type: punctuation, offset: 5084, content: /, id: KR3a0006_krp_010-bkkpn458}
   - {type: punctuation, offset: 5085, content: ), id: KR3a0006_krp_010-bkkpn459}
   - {type: punctuation, offset: 5102, content: (, id: KR3a0006_krp_010-bkkpn460}
   - {type: variant, offset: 5102, length: 57, content: 韓非子曰虎豹之所以能勝人執百獸者以其爪牙也當使虎豹失其爪牙則人必制之矣今勢重者人主之爪牙也君人而失其爪牙虎豹之類也, SBCK: ''}
+  - {type: voice, offset: 5102, length: 57, name: note, id: n62}
   - {type: punctuation, offset: 5104, content: /, id: KR3a0006_krp_010-bkkpn461}
   - {type: punctuation, offset: 5106, content: ), id: KR3a0006_krp_010-bkkpn462}
   - {type: 'kr:newline', offset: 5106, content: '
@@ -1465,10 +1527,12 @@ markers:
   - {type: indent, offset: 5172, content: 　, id: KR3a0006_krp_010-bkkind75}
   - {type: punctuation, offset: 5180, content: (, id: KR3a0006_krp_010-bkkpn469}
   - {type: variant, offset: 5180, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 5180, length: 2, name: note, id: n63}
   - {type: punctuation, offset: 5181, content: /, id: KR3a0006_krp_010-bkkpn470}
   - {type: punctuation, offset: 5182, content: ), id: KR3a0006_krp_010-bkkpn471}
   - {type: punctuation, offset: 5190, content: (, id: KR3a0006_krp_010-bkkpn472}
   - {type: variant, offset: 5190, length: 116, content: 詩曰衮職有闕維仲山甫補之匈奴傳曰秦滅六國始皇帝使䝉恬將數十萬之衆北擊胡悉收河南地因河為塞築四十四縣城臨河徙適戎以充之而通直道自九原至雲陽因邊山險塹谿谷可繕者繕之起臨洮至遼東萬餘里又度河據陽山北假中匈奴單于曰頭曼頭曼不勝秦北徙十有餘年, SBCK: ''}
+  - {type: voice, offset: 5190, length: 116, name: note, id: n64}
   - {type: punctuation, offset: 5193, content: /, id: KR3a0006_krp_010-bkkpn473}
   - {type: punctuation, offset: 5196, content: ), id: KR3a0006_krp_010-bkkpn474}
   - {type: 'kr:newline', offset: 5196, content: '
@@ -1512,6 +1576,7 @@ markers:
   - {type: indent, offset: 5331, content: 　, id: KR3a0006_krp_010-bkkind80}
   - {type: punctuation, offset: 5332, content: (, id: KR3a0006_krp_010-bkkpn484}
   - {type: variant, offset: 5332, length: 28, content: 韓非子曰不謹其閉不固其門虎乃將存不慎其事不掩其情賊乃將生, SBCK: ''}
+  - {type: voice, offset: 5332, length: 28, name: note, id: n65}
   - {type: punctuation, offset: 5346, content: /, id: KR3a0006_krp_010-bkkpn485}
   - {type: punctuation, offset: 5360, content: ), id: KR3a0006_krp_010-bkkpn486}
   - {type: 'kr:newline', offset: 5360, content: '
@@ -1521,14 +1586,17 @@ markers:
   - {type: variant, offset: 5364, length: 1, content: 地, SBCK: ''}
   - {type: variant, offset: 5366, length: 2, content: 肴音, SBCK: ''}
   - {type: punctuation, offset: 5367, content: (, id: KR3a0006_krp_010-bkkpn487}
+  - {type: voice, offset: 5367, length: 2, name: note, id: n66}
   - {type: punctuation, offset: 5368, content: /, id: KR3a0006_krp_010-bkkpn488}
   - {type: punctuation, offset: 5369, content: ), id: KR3a0006_krp_010-bkkpn489}
   - {type: punctuation, offset: 5370, content: (, id: KR3a0006_krp_010-bkkpn490}
   - {type: variant, offset: 5370, length: 2, content: 音咸, SBCK: ''}
+  - {type: voice, offset: 5370, length: 2, name: note, id: n67}
   - {type: punctuation, offset: 5371, content: /, id: KR3a0006_krp_010-bkkpn491}
   - {type: punctuation, offset: 5372, content: ), id: KR3a0006_krp_010-bkkpn492}
   - {type: punctuation, offset: 5375, content: (, id: KR3a0006_krp_010-bkkpn493}
   - {type: variant, offset: 5375, length: 2, content: 音低, SBCK: ''}
+  - {type: voice, offset: 5375, length: 2, name: note, id: n68}
   - {type: punctuation, offset: 5376, content: /, id: KR3a0006_krp_010-bkkpn494}
   - {type: punctuation, offset: 5377, content: ), id: KR3a0006_krp_010-bkkpn495}
   - {type: 'kr:newline', offset: 5384, content: '
@@ -1538,12 +1606,14 @@ markers:
   - {type: variant, offset: 5386, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 5394, content: (, id: KR3a0006_krp_010-bkkpn496}
   - {type: variant, offset: 5394, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 5394, length: 2, name: note, id: n69}
   - {type: punctuation, offset: 5395, content: /, id: KR3a0006_krp_010-bkkpn497}
   - {type: punctuation, offset: 5396, content: ), id: KR3a0006_krp_010-bkkpn498}
   - {type: variant, offset: 5400, length: 1, content: 器, SBCK: 噐}
   - {type: page-break, offset: 5402, content: '', id: KR3a0006_SBCK_009-3b}
   - {type: punctuation, offset: 5404, content: (, id: KR3a0006_krp_010-bkkpn499}
   - {type: variant, offset: 5404, length: 2, content: 音形, SBCK: ''}
+  - {type: voice, offset: 5404, length: 2, name: note, id: n70}
   - {type: punctuation, offset: 5405, content: /, id: KR3a0006_krp_010-bkkpn500}
   - {type: punctuation, offset: 5406, content: ), id: KR3a0006_krp_010-bkkpn501}
   - {type: 'kr:newline', offset: 5407, content: '
@@ -1552,10 +1622,12 @@ markers:
   - {type: line-break, offset: 5407, content: '', id: KR3a0006_WYG_010-11b05}
   - {type: punctuation, offset: 5407, content: (, id: KR3a0006_krp_010-bkkpn502}
   - {type: variant, offset: 5407, length: 2, content: 音遂, SBCK: ''}
+  - {type: voice, offset: 5407, length: 2, name: note, id: n71}
   - {type: punctuation, offset: 5408, content: /, id: KR3a0006_krp_010-bkkpn503}
   - {type: punctuation, offset: 5409, content: ), id: KR3a0006_krp_010-bkkpn504}
   - {type: punctuation, offset: 5417, content: (, id: KR3a0006_krp_010-bkkpn505}
   - {type: variant, offset: 5417, length: 74, content: 修務訓曰昔者楚欲攻宋墨子聞而悼之自魯趨而十日十夜足重繭而不休息裂衣裳裹足至於郢見楚王曰臣聞大王舉兵將攻宋計必得宋而後攻之乎忘其苦衆勞民頓兵挫銳負天下, SBCK: ''}
+  - {type: voice, offset: 5417, length: 191, name: note, id: n72}
   - {type: punctuation, offset: 5429, content: /, id: KR3a0006_krp_010-bkkpn506}
   - {type: punctuation, offset: 5441, content: ), id: KR3a0006_krp_010-bkkpn507}
   - {type: 'kr:newline', offset: 5441, content: '
@@ -1597,6 +1669,7 @@ markers:
   - {type: line-break, offset: 5608, content: '', id: KR3a0006_WYG_010-12a02}
   - {type: punctuation, offset: 5625, content: (, id: KR3a0006_krp_010-bkkpn520}
   - {type: variant, offset: 5625, length: 2, content: 音絮, SBCK: ''}
+  - {type: voice, offset: 5625, length: 2, name: note, id: n73}
   - {type: punctuation, offset: 5626, content: /, id: KR3a0006_krp_010-bkkpn521}
   - {type: punctuation, offset: 5627, content: ), id: KR3a0006_krp_010-bkkpn522}
   - {type: 'kr:newline', offset: 5630, content: '
@@ -1605,6 +1678,7 @@ markers:
   - {type: line-break, offset: 5630, content: '', id: KR3a0006_WYG_010-12a03}
   - {type: punctuation, offset: 5632, content: (, id: KR3a0006_krp_010-bkkpn523}
   - {type: variant, offset: 5632, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 5632, length: 2, name: note, id: n74}
   - {type: punctuation, offset: 5633, content: /, id: KR3a0006_krp_010-bkkpn524}
   - {type: punctuation, offset: 5634, content: ), id: KR3a0006_krp_010-bkkpn525}
   - {type: variant, offset: 5641, length: 1, content: 奮, SBCK: 􅁬}
@@ -1615,6 +1689,7 @@ markers:
   - {type: line-break, offset: 5652, content: '', id: KR3a0006_WYG_010-12a04}
   - {type: punctuation, offset: 5655, content: (, id: KR3a0006_krp_010-bkkpn526}
   - {type: variant, offset: 5655, length: 322, content: 賈誼曰始皇奮六世之餘烈振長䇿而御宇内吞二周而亡諸侯履至尊而制六合執敲朴以鞭笞天下威振四海南取百粤之地以為桂林象郡百粤之君俛首係頸委命下吏乃使䝉恬北築長城而守藩籬却匈奴七百餘里胡人不敢南下而牧馬士不敢彎弓而報怨於是廢先王之道燔百家之言以愚黔首墮名城殺豪俊收天下之兵聚之咸陽銷鋒鍉鑄以為金人十二以弱天下之民然後踐華為城因河為池據億丈之城臨不測之谿以為固良將勁弩守要害之處信臣精卒陳利兵而誰何天下已定始皇之心自以為闗中之固金城千里子孫帝王萬世之業也始皇旣沒餘威振于殊俗然而陳涉甕牗䋲樞之子氓𨽻之人而遷徙之徒也材能不及非有仲弓墨翟之賢陶朱猗頓之富躡足行伍之間俛起阡陌之中卒疲散之卒轉而攻秦斬木為兵揭竿為旗天下雲合而響應褁糧而景從山東豪傑遂並起而亡秦族矣, SBCK: ''}
+  - {type: voice, offset: 5655, length: 322, name: note, id: n75}
   - {type: punctuation, offset: 5673, content: /, id: KR3a0006_krp_010-bkkpn527}
   - {type: punctuation, offset: 5691, content: ), id: KR3a0006_krp_010-bkkpn528}
   - {type: 'kr:newline', offset: 5691, content: '
@@ -1677,6 +1752,7 @@ markers:
   - {type: line-break, offset: 5981, content: '', id: KR3a0006_WYG_010-12b04}
   - {type: punctuation, offset: 5986, content: (, id: KR3a0006_krp_010-bkkpn550}
   - {type: variant, offset: 5986, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 5986, length: 2, name: note, id: n76}
   - {type: punctuation, offset: 5987, content: /, id: KR3a0006_krp_010-bkkpn551}
   - {type: punctuation, offset: 5988, content: ), id: KR3a0006_krp_010-bkkpn552}
   - {type: variant, offset: 5989, length: 1, content: 為, SBCK: 爲}
@@ -1695,10 +1771,12 @@ markers:
   - {type: line-break, offset: 6024, content: '', id: KR3a0006_WYG_010-12b06}
   - {type: punctuation, offset: 6029, content: (, id: KR3a0006_krp_010-bkkpn553}
   - {type: variant, offset: 6029, length: 2, content: 音扶, SBCK: ''}
+  - {type: voice, offset: 6029, length: 2, name: note, id: n77}
   - {type: punctuation, offset: 6030, content: /, id: KR3a0006_krp_010-bkkpn554}
   - {type: punctuation, offset: 6031, content: ), id: KR3a0006_krp_010-bkkpn555}
   - {type: punctuation, offset: 6037, content: (, id: KR3a0006_krp_010-bkkpn556}
   - {type: variant, offset: 6037, length: 284, content: 魏武侯浮西河而下中流顧謂呉起曰美哉乎河山之固也此魏國之寳也呉起對曰在徳不在險昔三苗氏左洞庭右彭蠡徳義不修而舜滅之夏桀之居左河濟右太華伊闕在其南羊腸在其北修政不仁湯放之殷紂之國左孟門而右太行常山在其北大河經其南修政不徳武王伐之由此觀之在徳不在險若君不修徳船中之人盡敵國也武侯曰善左思曰劒閣雖嶛憑之者蹶非所以深根固蔕也洞庭雖濬負之者北非所以愛人治國也詩傳曰今有堅甲利兵不足以施敵破虜弓良矢調不足射逺中微與無兵等爾有民不足强用嚴敵與無民等爾故盤石千里不為有地愚民百萬不為有民詩曰維南有箕不可以簸揚維北有斗不可以挹酒漿莊辛曰居不為垣墻人莫能毁傷行不從周衞人莫能暴害此君子之行也, SBCK: ''}
+  - {type: voice, offset: 6037, length: 284, name: note, id: n78}
   - {type: punctuation, offset: 6046, content: /, id: KR3a0006_krp_010-bkkpn557}
   - {type: punctuation, offset: 6055, content: ), id: KR3a0006_krp_010-bkkpn558}
   - {type: 'kr:newline', offset: 6055, content: '
@@ -1767,11 +1845,13 @@ markers:
   - {type: indent, offset: 6341, content: 　, id: KR3a0006_krp_010-bkkind82}
   - {type: variant, offset: 6345, length: 3, content: 伯音霸, SBCK: 覇}
   - {type: punctuation, offset: 6346, content: (, id: KR3a0006_krp_010-bkkpn580}
+  - {type: voice, offset: 6346, length: 2, name: note, id: n79}
   - {type: punctuation, offset: 6347, content: /, id: KR3a0006_krp_010-bkkpn581}
   - {type: punctuation, offset: 6348, content: ), id: KR3a0006_krp_010-bkkpn582}
   - {type: variant, offset: 6353, length: 1, content: 飭, SBCK: 􅅚}
   - {type: punctuation, offset: 6356, content: (, id: KR3a0006_krp_010-bkkpn583}
   - {type: variant, offset: 6356, length: 2, content: 音磊, SBCK: ''}
+  - {type: voice, offset: 6356, length: 2, name: note, id: n80}
   - {type: punctuation, offset: 6357, content: /, id: KR3a0006_krp_010-bkkpn584}
   - {type: punctuation, offset: 6358, content: ), id: KR3a0006_krp_010-bkkpn585}
   - {type: 'kr:newline', offset: 6363, content: '
@@ -1781,10 +1861,12 @@ markers:
   - {type: indent, offset: 6363, content: 　, id: KR3a0006_krp_010-bkkind83}
   - {type: punctuation, offset: 6369, content: (, id: KR3a0006_krp_010-bkkpn586}
   - {type: variant, offset: 6369, length: 3, content: 音朱修, SBCK: 脩}
+  - {type: voice, offset: 6369, length: 2, name: note, id: n81}
   - {type: punctuation, offset: 6370, content: /, id: KR3a0006_krp_010-bkkpn587}
   - {type: punctuation, offset: 6371, content: ), id: KR3a0006_krp_010-bkkpn588}
   - {type: variant, offset: 6374, length: 53, content: 也春秋曰冬浚洙公羊傳曰洙者何水也浚之者何深之也曷為深之畏齊也曷為畏齊辭殺子紏也穀梁傳曰浚洙者深洙也著力不足, SBCK: ''}
   - {type: punctuation, offset: 6375, content: (, id: KR3a0006_krp_010-bkkpn589}
+  - {type: voice, offset: 6375, length: 53, name: note, id: n82}
   - {type: punctuation, offset: 6384, content: /, id: KR3a0006_krp_010-bkkpn590}
   - {type: punctuation, offset: 6393, content: ), id: KR3a0006_krp_010-bkkpn591}
   - {type: 'kr:newline', offset: 6393, content: '
@@ -1812,14 +1894,17 @@ markers:
   - {type: indent, offset: 6450, content: 　, id: KR3a0006_krp_010-bkkind86}
   - {type: punctuation, offset: 6455, content: (, id: KR3a0006_krp_010-bkkpn595}
   - {type: variant, offset: 6455, length: 2, content: 音爻, SBCK: ''}
+  - {type: voice, offset: 6455, length: 2, name: note, id: n83}
   - {type: punctuation, offset: 6456, content: /, id: KR3a0006_krp_010-bkkpn596}
   - {type: punctuation, offset: 6457, content: ), id: KR3a0006_krp_010-bkkpn597}
   - {type: punctuation, offset: 6458, content: (, id: KR3a0006_krp_010-bkkpn598}
   - {type: variant, offset: 6458, length: 3, content: 音欽巖, SBCK: 崟}
+  - {type: voice, offset: 6458, length: 2, name: note, id: n84}
   - {type: punctuation, offset: 6459, content: /, id: KR3a0006_krp_010-bkkpn599}
   - {type: punctuation, offset: 6460, content: ), id: KR3a0006_krp_010-bkkpn600}
   - {type: variant, offset: 6462, length: 249, content: 也宋世家曰文公十七年楚以圍宋五月不解宋城中急無食華元乃夜私見楚將子反子反告莊王王問城中何如曰析骸而炊易子而食莊王曰誠哉言我軍亦有七日糧以信故遂罷兵去公羊傳曰秦伯將襲鄭百里子與蹇叔子諫曰千里而襲人未有不亡者也秦伯怒曰若爾之年者宰上之木拱矣爾曷知師出百里子與蹇叔子送其子而戒之曰爾即死必於殽之嶔巖是文王之所辟風雨者也吾將尸爾焉子揖師而行百里子與蹇叔子從其子而哭之秦伯怒曰爾曷為哭吾師對曰臣非敢哭君師哭臣之子也弦髙者鄭商也遇之殽矯以鄭伯之命而犒師焉或曰往矣或曰反矣然而晉人與姜戎要之殽而撃之匹馬隻輪無反者, SBCK: ''}
   - {type: punctuation, offset: 6463, content: (, id: KR3a0006_krp_010-bkkpn601}
+  - {type: voice, offset: 6463, length: 249, name: note, id: n85}
   - {type: punctuation, offset: 6472, content: /, id: KR3a0006_krp_010-bkkpn602}
   - {type: punctuation, offset: 6481, content: ), id: KR3a0006_krp_010-bkkpn603}
   - {type: 'kr:newline', offset: 6481, content: '
@@ -1896,6 +1981,7 @@ markers:
   - {type: line-break, offset: 6756, content: '', id: KR3a0006_WYG_010-14a04}
   - {type: variant, offset: 6770, length: 168, content: 徳闘㢘謂莫敖曰師克在和不在衆商周之不敵君之所聞也成軍以出又何濟焉孫卿曰夫兵之要在附親士民而已六馬不和造父不能以致逺弓矢不調羿不能以中微士民不親附湯武不能以戰勝由此觀之要在於附親士民而已矣兵略曰駟馬不調造父不能以致逺弓矢不調羿不能以必中君臣乖心則孫子不能以應敵呉子曰不和於國不可以出軍不和於軍不可以出陣不和於陣不可以進戰不和於戰不可以决勝, SBCK: 德}
   - {type: punctuation, offset: 6771, content: (, id: KR3a0006_krp_010-bkkpn622}
+  - {type: voice, offset: 6771, length: 167, name: note, id: n86}
   - {type: punctuation, offset: 6777, content: /, id: KR3a0006_krp_010-bkkpn623}
   - {type: punctuation, offset: 6783, content: ), id: KR3a0006_krp_010-bkkpn624}
   - {type: 'kr:newline', offset: 6783, content: '
@@ -1938,6 +2024,7 @@ markers:
   - {type: variant, offset: 6958, length: 1, content: 徳, SBCK: 德}
   - {type: punctuation, offset: 6960, content: (, id: KR3a0006_krp_010-bkkpn637}
   - {type: variant, offset: 6960, length: 227, content: 婁敬曰武王伐紂不期而㑹孟津上八百諸侯遂滅殷成王即位周公之屬傅相焉乃營成周都雒以為此天下中諸侯四方納貢職道里鈞矣有徳則易以王無徳則易以亡凡居此者欲令務以徳致人不欲阻險令後世驕奢以虐民也汜論曰武王克殷欲築宫於五行之山周公曰不可夫五行之山固塞險阻之地使我徳能覆之則天下納其貢職者廽也我有暴亂之行則天下之伐我難矣此所以三十六世而不奪也周公可謂能持滿矣許慎曰廻迂難也廻或作固固必也周公言我有暴亂之行則天下當來伐我我無為於五行之山使天下來伐我者難也言其依徳不恃險也呉, SBCK: 吳}
+  - {type: voice, offset: 6960, length: 226, name: note, id: n87}
   - {type: punctuation, offset: 6965, content: /, id: KR3a0006_krp_010-bkkpn638}
   - {type: punctuation, offset: 6970, content: ), id: KR3a0006_krp_010-bkkpn639}
   - {type: 'kr:newline', offset: 6970, content: '
@@ -1989,10 +2076,12 @@ markers:
   - {type: line-break, offset: 7204, content: '', id: KR3a0006_WYG_010-14b08}
   - {type: punctuation, offset: 7214, content: (, id: KR3a0006_krp_010-bkkpn658}
   - {type: variant, offset: 7214, length: 2, content: 音低, SBCK: ''}
+  - {type: voice, offset: 7214, length: 2, name: note, id: n88}
   - {type: punctuation, offset: 7215, content: /, id: KR3a0006_krp_010-bkkpn659}
   - {type: punctuation, offset: 7216, content: ), id: KR3a0006_krp_010-bkkpn660}
   - {type: punctuation, offset: 7217, content: (, id: KR3a0006_krp_010-bkkpn661}
   - {type: variant, offset: 7217, length: 2, content: 音肴, SBCK: ''}
+  - {type: voice, offset: 7217, length: 2, name: note, id: n89}
   - {type: punctuation, offset: 7218, content: /, id: KR3a0006_krp_010-bkkpn662}
   - {type: punctuation, offset: 7219, content: ), id: KR3a0006_krp_010-bkkpn663}
   - {type: 'kr:newline', offset: 7227, content: '
@@ -2005,6 +2094,7 @@ markers:
   - {type: line-break, offset: 7227, content: '', id: KR3a0006_WYG_010-15a01}
   - {type: punctuation, offset: 7229, content: (, id: KR3a0006_krp_010-bkkpn664}
   - {type: variant, offset: 7229, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 7229, length: 2, name: note, id: n90}
   - {type: punctuation, offset: 7230, content: /, id: KR3a0006_krp_010-bkkpn665}
   - {type: punctuation, offset: 7231, content: ), id: KR3a0006_krp_010-bkkpn666}
   - {type: variant, offset: 7245, length: 1, content: 負, SBCK: 􅀒}
@@ -2016,6 +2106,7 @@ markers:
   - {type: variant, offset: 7255, length: 1, content: 有, SBCK: 於}
   - {type: punctuation, offset: 7258, content: (, id: KR3a0006_krp_010-bkkpn667}
   - {type: variant, offset: 7258, length: 2, content: 音薄, SBCK: ''}
+  - {type: voice, offset: 7258, length: 2, name: note, id: n91}
   - {type: punctuation, offset: 7259, content: /, id: KR3a0006_krp_010-bkkpn668}
   - {type: punctuation, offset: 7260, content: ), id: KR3a0006_krp_010-bkkpn669}
   - {type: 'kr:newline', offset: 7271, content: '
@@ -2032,10 +2123,12 @@ markers:
   - {type: variant, offset: 7299, length: 1, content: 爭, SBCK: 争}
   - {type: punctuation, offset: 7306, content: (, id: KR3a0006_krp_010-bkkpn670}
   - {type: variant, offset: 7306, length: 2, content: 音疲, SBCK: ''}
+  - {type: voice, offset: 7306, length: 2, name: note, id: n92}
   - {type: punctuation, offset: 7307, content: /, id: KR3a0006_krp_010-bkkpn671}
   - {type: punctuation, offset: 7308, content: ), id: KR3a0006_krp_010-bkkpn672}
   - {type: variant, offset: 7310, length: 30, content: 虛蔡澤曰呉王夫差兵無敵於天下勇猛以輕諸侯陵齊晉故遂以殺身亡國, SBCK: 虚}
   - {type: punctuation, offset: 7311, content: (, id: KR3a0006_krp_010-bkkpn673}
+  - {type: voice, offset: 7311, length: 29, name: note, id: n93}
   - {type: punctuation, offset: 7314, content: /, id: KR3a0006_krp_010-bkkpn674}
   - {type: punctuation, offset: 7317, content: ), id: KR3a0006_krp_010-bkkpn675}
   - {type: 'kr:newline', offset: 7317, content: '
@@ -2054,6 +2147,7 @@ markers:
   - {type: variant, offset: 7358, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 7369, content: (, id: KR3a0006_krp_010-bkkpn679}
   - {type: variant, offset: 7369, length: 40, content: 呉語解曰申胥楚大夫伍奢之子子胥也名員魯昭二十年奢誅於楚員奔呉呉子與之申地故曰申胥, SBCK: ''}
+  - {type: voice, offset: 7369, length: 40, name: note, id: n94}
   - {type: punctuation, offset: 7370, content: /, id: KR3a0006_krp_010-bkkpn680}
   - {type: punctuation, offset: 7371, content: ), id: KR3a0006_krp_010-bkkpn681}
   - {type: 'kr:newline', offset: 7371, content: '
@@ -2070,6 +2164,7 @@ markers:
   - {type: indent, offset: 7409, content: 　, id: KR3a0006_krp_010-bkkind95}
   - {type: punctuation, offset: 7422, content: (, id: KR3a0006_krp_010-bkkpn685}
   - {type: variant, offset: 7422, length: 2, content: 音鉗, SBCK: ''}
+  - {type: voice, offset: 7422, length: 2, name: note, id: n95}
   - {type: punctuation, offset: 7423, content: /, id: KR3a0006_krp_010-bkkpn686}
   - {type: punctuation, offset: 7424, content: ), id: KR3a0006_krp_010-bkkpn687}
   - {type: variant, offset: 7427, length: 1, content: 關, SBCK: 􅀜}
@@ -2085,10 +2180,12 @@ markers:
   - {type: indent, offset: 7430, content: 　, id: KR3a0006_krp_010-bkkind96}
   - {type: punctuation, offset: 7436, content: (, id: KR3a0006_krp_010-bkkpn688}
   - {type: variant, offset: 7436, length: 2, content: 音爻, SBCK: ''}
+  - {type: voice, offset: 7436, length: 2, name: note, id: n96}
   - {type: punctuation, offset: 7437, content: /, id: KR3a0006_krp_010-bkkpn689}
   - {type: punctuation, offset: 7438, content: ), id: KR3a0006_krp_010-bkkpn690}
   - {type: punctuation, offset: 7439, content: (, id: KR3a0006_krp_010-bkkpn691}
   - {type: variant, offset: 7439, length: 2, content: 音咸, SBCK: ''}
+  - {type: voice, offset: 7439, length: 2, name: note, id: n97}
   - {type: punctuation, offset: 7440, content: /, id: KR3a0006_krp_010-bkkpn692}
   - {type: punctuation, offset: 7441, content: ), id: KR3a0006_krp_010-bkkpn693}
   - {type: variant, offset: 7450, length: 1, content: 闕, SBCK: 􅆣}
@@ -2099,6 +2196,7 @@ markers:
   - {type: indent, offset: 7452, content: 　, id: KR3a0006_krp_010-bkkind97}
   - {type: punctuation, offset: 7456, content: (, id: KR3a0006_krp_010-bkkpn694}
   - {type: variant, offset: 7456, length: 2, content: 音杭, SBCK: ''}
+  - {type: voice, offset: 7456, length: 2, name: note, id: n98}
   - {type: punctuation, offset: 7457, content: /, id: KR3a0006_krp_010-bkkpn695}
   - {type: punctuation, offset: 7458, content: ), id: KR3a0006_krp_010-bkkpn696}
   - {type: 'kr:newline', offset: 7473, content: '
@@ -2131,13 +2229,16 @@ markers:
   - {type: indent, offset: 7533, content: 　, id: KR3a0006_krp_010-bkkind101}
   - {type: punctuation, offset: 7535, content: (, id: KR3a0006_krp_010-bkkpn697}
   - {type: variant, offset: 7535, length: 2, content: 音汙, SBCK: ''}
+  - {type: voice, offset: 7535, length: 2, name: note, id: n99}
   - {type: punctuation, offset: 7536, content: /, id: KR3a0006_krp_010-bkkpn698}
   - {type: punctuation, offset: 7537, content: ), id: KR3a0006_krp_010-bkkpn699}
   - {type: variant, offset: 7543, length: 20, content: 易音異也春秋曰徐人取舒公羊傳曰其言取之何, SBCK: ''}
   - {type: punctuation, offset: 7544, content: (, id: KR3a0006_krp_010-bkkpn700}
+  - {type: voice, offset: 7544, length: 2, name: note, id: n100}
   - {type: punctuation, offset: 7545, content: /, id: KR3a0006_krp_010-bkkpn701}
   - {type: punctuation, offset: 7546, content: ), id: KR3a0006_krp_010-bkkpn702}
   - {type: punctuation, offset: 7547, content: (, id: KR3a0006_krp_010-bkkpn703}
+  - {type: voice, offset: 7547, length: 18, name: note, id: n101}
   - {type: punctuation, offset: 7555, content: /, id: KR3a0006_krp_010-bkkpn704}
   - {type: punctuation, offset: 7563, content: ), id: KR3a0006_krp_010-bkkpn705}
   - {type: 'kr:newline', offset: 7563, content: '
@@ -2151,6 +2252,7 @@ markers:
   - {type: variant, offset: 7574, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 7583, content: (, id: KR3a0006_krp_010-bkkpn709}
   - {type: variant, offset: 7583, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 7583, length: 2, name: note, id: n102}
   - {type: punctuation, offset: 7584, content: /, id: KR3a0006_krp_010-bkkpn710}
   - {type: punctuation, offset: 7585, content: ), id: KR3a0006_krp_010-bkkpn711}
   - {type: 'kr:newline', offset: 7585, content: '
@@ -2175,9 +2277,11 @@ markers:
   - {type: line-break, offset: 7622, content: '', id: KR3a0006_WYG_010-16a02}
   - {type: punctuation, offset: 7635, content: (, id: KR3a0006_krp_010-bkkpn712}
   - {type: variant, offset: 7635, length: 314, content: 音汙也泰族訓曰天子得道守在四夷天子失道守在諸侯諸侯得道守在四鄰諸侯失道守在四境故湯處亳七十里文王處鄷百里皆令行禁止於天下周之衰也戎伐凡伯于楚丘以歸故得道則以百里之地令於諸侯失道則以天下之大畏於兾州故曰無恃其不吾奪也恃吾不可奪行可奪之道而非簒殺之行無益於恃天下矣汜論曰堯無百戸之郭舜無置錐之地以有天下禹無十人之衆湯無七里之分以王諸侯文王處岐周之間也地方不過百里而立為天子者有王道也夏桀殷紂之盛也人跡所至舟車所通莫不為郡縣然而身死人手而為天下笑者有亡形也故得王道者雖小必大有亡形者雖成必敗趙襄子以晉陽之城霸智伯以三晉之地擒湣王以大齊亡田單以即墨有功故國之亡也雖大不足恃道之行也雖小不可輕由此觀之存在得道而不在於大也亡在失道而不在於小, SBCK: ''}
+  - {type: voice, offset: 7635, length: 2, name: note, id: n103}
   - {type: punctuation, offset: 7636, content: /, id: KR3a0006_krp_010-bkkpn713}
   - {type: punctuation, offset: 7637, content: ), id: KR3a0006_krp_010-bkkpn714}
   - {type: punctuation, offset: 7638, content: (, id: KR3a0006_krp_010-bkkpn715}
+  - {type: voice, offset: 7638, length: 312, name: note, id: n104}
   - {type: punctuation, offset: 7644, content: /, id: KR3a0006_krp_010-bkkpn716}
   - {type: punctuation, offset: 7650, content: ), id: KR3a0006_krp_010-bkkpn717}
   - {type: 'kr:newline', offset: 7650, content: '
@@ -2254,6 +2358,7 @@ markers:
   - {type: page-break, offset: 7989, content: '', id: KR3a0006_SBCK_009-5b}
   - {type: punctuation, offset: 7995, content: (, id: KR3a0006_krp_010-bkkpn742}
   - {type: variant, offset: 7995, length: 239, content: 詩傳曰堅甲利兵不足以為武髙城深池不足以為固嚴令繁刑不足以為威由其道則行不由其道則廢昔楚人蛟革犀兕以為甲堅如金石宛如鉅蛇慘若蜂蠆輕利剛疾卒如飄風然兵殆於垂沙唐子死莊蹻走楚分為三四者此豈無堅甲利兵也哉所以統之非其道故也汝淮以為險江漢以為池縁之以方城限之以鄧林然秦師至于鄔郢舉若振槁然是豈無固塞限險也哉其所以統之者非其道故也紂殺比干而囚箕子為炮烙之刑殺戮無時羣下愁怨皆莫兾其命然周師至令不行乎左右而豈其無嚴令繁刑也哉其所以統之者非其道故也若夫明道而均分之誠愛而時使之則下之應上如影響矣, SBCK: ''}
+  - {type: voice, offset: 7995, length: 239, name: note, id: n105}
   - {type: punctuation, offset: 8010, content: /, id: KR3a0006_krp_010-bkkpn743}
   - {type: punctuation, offset: 8025, content: ), id: KR3a0006_krp_010-bkkpn744}
   - {type: 'kr:newline', offset: 8025, content: '
@@ -2308,6 +2413,7 @@ markers:
   - {type: line-break, offset: 8255, content: '', id: KR3a0006_WYG_010-17a03}
   - {type: punctuation, offset: 8258, content: (, id: KR3a0006_krp_010-bkkpn760}
   - {type: variant, offset: 8258, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 8258, length: 2, name: note, id: n106}
   - {type: punctuation, offset: 8259, content: /, id: KR3a0006_krp_010-bkkpn761}
   - {type: punctuation, offset: 8260, content: ), id: KR3a0006_krp_010-bkkpn762}
   - {type: variant, offset: 8267, length: 1, content: 庶, SBCK: 庻}
@@ -2330,6 +2436,7 @@ markers:
   - {type: variant, offset: 8295, length: 1, content: 懐, SBCK: 懷}
   - {type: variant, offset: 8307, length: 3, content: 匕音比, SBCK: 􅍰}
   - {type: punctuation, offset: 8308, content: (, id: KR3a0006_krp_010-bkkpn763}
+  - {type: voice, offset: 8308, length: 2, name: note, id: n107}
   - {type: punctuation, offset: 8309, content: /, id: KR3a0006_krp_010-bkkpn764}
   - {type: punctuation, offset: 8310, content: ), id: KR3a0006_krp_010-bkkpn765}
   - {type: 'kr:newline', offset: 8311, content: '
@@ -2344,6 +2451,7 @@ markers:
   - {type: indent, offset: 8331, content: 　, id: KR3a0006_krp_010-bkkind107}
   - {type: punctuation, offset: 8331, content: (, id: KR3a0006_krp_010-bkkpn766}
   - {type: variant, offset: 8331, length: 69, content: 燕丹子曰荆軻刺秦王右手執匕首左手把其袖秦王曰乞聼琴聲而死琴女奏曲云羅縠單衣可掣而絶三尺屏風可超而越鹿盧之劒可負而㧞王從其計軻不解琴故及於難, SBCK: ''}
+  - {type: voice, offset: 8331, length: 69, name: note, id: n108}
   - {type: punctuation, offset: 8351, content: /, id: KR3a0006_krp_010-bkkpn767}
   - {type: punctuation, offset: 8371, content: ), id: KR3a0006_krp_010-bkkpn768}
   - {type: 'kr:newline', offset: 8371, content: '
@@ -2366,10 +2474,12 @@ markers:
   - {type: variant, offset: 8408, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 8410, content: (, id: KR3a0006_krp_010-bkkpn772}
   - {type: variant, offset: 8410, length: 10, content: 左傳作鱄設諸禽通作擒, SBCK: ''}
+  - {type: voice, offset: 8410, length: 10, name: note, id: n109}
   - {type: punctuation, offset: 8415, content: /, id: KR3a0006_krp_010-bkkpn773}
   - {type: punctuation, offset: 8420, content: ), id: KR3a0006_krp_010-bkkpn774}
   - {type: punctuation, offset: 8429, content: (, id: KR3a0006_krp_010-bkkpn775}
   - {type: variant, offset: 8429, length: 735, content: 刺客傳曰伍子胥知公子光之欲殺呉王僚乃曰彼光將有内志未可說以外事乃進專諸於公子光光既得專諸善客待之九年而楚平王死春呉王僚欲因楚䘮使其二弟公子盖餘屬庸將兵圍楚之潜使延陵季子於晉以觀諸侯之變楚發兵絶呉將盖餘屬庸路呉兵不得還於是公子光謂專諸曰此時不可失不求何獲且光真王嗣當立季子雖來不吾廢也專諸曰王僚可殺也母老子弱而兩弟將兵伐楚楚絶其後方今呉外困於楚而内空無骨鯁之臣是無如我何公子光頓首曰光之身子之身也四月丙子光伏甲士於窟室中而具酒請王僚王僚使兵陳自宫至光之家門戸階陛左右皆王僚之親戚也夾立侍皆持長鈹酒既酣公子光為足疾入窟室中使專諸置匕首魚炙之腹中而進之既至王前專諸擘魚因以匕首刺王僚王僚立死左右亦殺專諸王人擾亂公子光出其伏甲以攻王僚之徒盡滅之遂自立為王是為闔閭乃封專諸之子以為上卿呉越春秋曰呉王欲殺王子慶忌而莫之能殺呉王患之要離曰臣能之呉王曰汝惡能乎吾嘗以六馬逐之江上矣而不能及射之矢左右滿把而不能中今汝㧞劒則不能舉臂上車則不能登軾汝惡能要離曰士患不勇耳奚患而不能王誠能助臣請必能呉王曰諾明旦加要離罪焉摯執妻子焚之而揚其灰要離走往見王子慶忌於衞王子慶忌喜曰呉王之無道也子之所見也諸侯之所知也今子得免而去之亦善矣要離與王子慶忌居有間謂王子慶忌曰呉之無道也愈甚請與王子往奪之國王子慶忌曰善乃與要離俱渉於江中江㧞劒以刺王子慶忌捽之投之於江浮則又取而投之如此者三其卒曰汝天下之國士也幸汝以成而名要離得不死歸於呉呉王大說請與分國要離曰不可臣請必死呉王止之要離曰夫殺妻子焚之而揚其灰以便事也臣以為不仁夫為故主殺新主臣以為不義夫捽而浮乎江三入三出特王子慶忌為之賜而不殺耳臣已為辱矣夫不仁不義又且已辱不可以生呉王不能止果仗劒而死要離可謂不為賞動矣故臨大利而不易其義可謂廉矣亷故不以富貴而忘其辱, SBCK: ''}
+  - {type: voice, offset: 8429, length: 735, name: note, id: n110}
   - {type: punctuation, offset: 8430, content: /, id: KR3a0006_krp_010-bkkpn776}
   - {type: punctuation, offset: 8431, content: ), id: KR3a0006_krp_010-bkkpn777}
   - {type: 'kr:newline', offset: 8431, content: '
@@ -2539,6 +2649,7 @@ markers:
   - {type: indent, offset: 9177, content: 　, id: KR3a0006_krp_010-bkkind129}
   - {type: punctuation, offset: 9179, content: (, id: KR3a0006_krp_010-bkkpn835}
   - {type: variant, offset: 9179, length: 2, content: 音挺, SBCK: ''}
+  - {type: voice, offset: 9179, length: 2, name: note, id: n111}
   - {type: punctuation, offset: 9180, content: /, id: KR3a0006_krp_010-bkkpn836}
   - {type: punctuation, offset: 9181, content: ), id: KR3a0006_krp_010-bkkpn837}
   - {type: variant, offset: 9183, length: 1, content: 據, SBCK: 㨿}
@@ -2551,6 +2662,7 @@ markers:
   - {type: variant, offset: 9203, length: 1, content: 奮, SBCK: 􅁬}
   - {type: punctuation, offset: 9217, content: (, id: KR3a0006_krp_010-bkkpn838}
   - {type: variant, offset: 9217, length: 20, content: 語曰騏驥之衰也駑馬先之孟賁之倦也女子勝之, SBCK: ''}
+  - {type: voice, offset: 9217, length: 20, name: note, id: n112}
   - {type: punctuation, offset: 9218, content: /, id: KR3a0006_krp_010-bkkpn839}
   - {type: punctuation, offset: 9219, content: ), id: KR3a0006_krp_010-bkkpn840}
   - {type: 'kr:newline', offset: 9219, content: '
@@ -2565,6 +2677,7 @@ markers:
   - {type: variant, offset: 9245, length: 1, content: 劒, SBCK: 劍}
   - {type: punctuation, offset: 9247, content: (, id: KR3a0006_krp_010-bkkpn844}
   - {type: variant, offset: 9247, length: 2, content: 音决, SBCK: ''}
+  - {type: voice, offset: 9247, length: 2, name: note, id: n113}
   - {type: punctuation, offset: 9248, content: /, id: KR3a0006_krp_010-bkkpn845}
   - {type: punctuation, offset: 9249, content: ), id: KR3a0006_krp_010-bkkpn846}
   - {type: 'kr:newline', offset: 9249, content: '
@@ -2578,6 +2691,7 @@ markers:
   - {type: indent, offset: 9249, content: 　, id: KR3a0006_krp_010-bkkind132}
   - {type: punctuation, offset: 9256, content: (, id: KR3a0006_krp_010-bkkpn847}
   - {type: variant, offset: 9256, length: 2, content: 音逞, SBCK: ''}
+  - {type: voice, offset: 9256, length: 2, name: note, id: n114}
   - {type: punctuation, offset: 9257, content: /, id: KR3a0006_krp_010-bkkpn848}
   - {type: punctuation, offset: 9258, content: ), id: KR3a0006_krp_010-bkkpn849}
   - {type: 'kr:newline', offset: 9270, content: '
@@ -2587,6 +2701,7 @@ markers:
   - {type: indent, offset: 9270, content: 　, id: KR3a0006_krp_010-bkkind133}
   - {type: punctuation, offset: 9270, content: (, id: KR3a0006_krp_010-bkkpn850}
   - {type: variant, offset: 9270, length: 2, content: 音扶, SBCK: ''}
+  - {type: voice, offset: 9270, length: 2, name: note, id: n115}
   - {type: punctuation, offset: 9271, content: /, id: KR3a0006_krp_010-bkkpn851}
   - {type: punctuation, offset: 9272, content: ), id: KR3a0006_krp_010-bkkpn852}
   - {type: variant, offset: 9288, length: 1, content: 勢, SBCK: 􅀔}
@@ -2597,6 +2712,7 @@ markers:
   - {type: indent, offset: 9291, content: 　, id: KR3a0006_krp_010-bkkind134}
   - {type: punctuation, offset: 9304, content: (, id: KR3a0006_krp_010-bkkpn853}
   - {type: variant, offset: 9304, length: 443, content: 衞鞅傳曰孝公二十二年使衞鞅將而伐魏魏使公子卬將而擊之軍既相距衞鞅遺魏將公子卬書曰吾始與公子驩今俱為兩國將不忍相攻可與公子曲相見盟樂飲而罷兵以安秦魏魏公子卬以為然㑹盟已飲而衞鞅伏甲士而襲虜魏公子卬因攻其軍盡破之以歸秦魏惠王兵數破於齊秦國内空日以削恐乃使使割西河之地獻於秦以和而魏遂去安邑徙都大梁孫臏傳曰宣王二年魏與趙攻韓韓告急於齊齊使田忌將而往直走大梁魏將龎涓聞之去韓而歸齊軍既已過而西矣孫子謂田忌曰彼三晋之兵素悍勇而輕齊齊號為怯善戰者因其勢而利導之兵法百里而趨利者蹶上將三十里而趨利者軍半至使齊軍入魏地為十萬竈明日為五萬竈龎涓行三日大喜曰我固知齊軍怯入吾地三日士卒亡者過半矣乃棄其歩軍與其輕銳倍日并行逐之孫子度其行暮當至馬陵馬陵道狹而旁多阻隘可伏兵乃斫大樹白而書之曰龎涓死於此樹之下於是令齊軍善射者萬弩夾道而伏期日暮見火舉而俱發龎涓果夜至斫木下見白書乃鑚火燭之讀其書未畢齊軍萬弩俱發魏軍大亂相失龎涓自知智窮兵敗乃自剄曰遂成豎子之名齊因乗勝盡破其軍虜魏太子申以歸孫臏以此名顯天下世傳其兵法, SBCK: ''}
+  - {type: voice, offset: 9304, length: 443, name: note, id: n116}
   - {type: punctuation, offset: 9311, content: /, id: KR3a0006_krp_010-bkkpn854}
   - {type: punctuation, offset: 9318, content: ), id: KR3a0006_krp_010-bkkpn855}
   - {type: 'kr:newline', offset: 9318, content: '
@@ -2697,6 +2813,7 @@ markers:
   - {type: line-break, offset: 9747, content: '', id: KR3a0006_WYG_010-19b07}
   - {type: punctuation, offset: 9761, content: (, id: KR3a0006_krp_010-bkkpn889}
   - {type: variant, offset: 9761, length: 37, content: 蘇秦曰棠谿墨陽皆陸斷牛馬水截鵠鴈者也許慎曰二者皆利劒名或曰皆地名出美劒者也, SBCK: ''}
+  - {type: voice, offset: 9761, length: 37, name: note, id: n117}
   - {type: punctuation, offset: 9768, content: /, id: KR3a0006_krp_010-bkkpn890}
   - {type: punctuation, offset: 9775, content: ), id: KR3a0006_krp_010-bkkpn891}
   - {type: 'kr:newline', offset: 9775, content: '
@@ -2708,6 +2825,7 @@ markers:
   - {type: punctuation, offset: 9798, content: ), id: KR3a0006_krp_010-bkkpn894}
   - {type: punctuation, offset: 9800, content: (, id: KR3a0006_krp_010-bkkpn895}
   - {type: variant, offset: 9800, length: 2, content: 音逐, SBCK: ''}
+  - {type: voice, offset: 9800, length: 2, name: note, id: n118}
   - {type: punctuation, offset: 9801, content: /, id: KR3a0006_krp_010-bkkpn896}
   - {type: punctuation, offset: 9802, content: ), id: KR3a0006_krp_010-bkkpn897}
   - {type: 'kr:newline', offset: 9808, content: '
@@ -2720,6 +2838,7 @@ markers:
   - {type: line-break, offset: 9808, content: '', id: KR3a0006_WYG_010-20a01}
   - {type: punctuation, offset: 9827, content: (, id: KR3a0006_krp_010-bkkpn898}
   - {type: variant, offset: 9827, length: 2, content: 音肴, SBCK: ''}
+  - {type: voice, offset: 9827, length: 2, name: note, id: n119}
   - {type: punctuation, offset: 9828, content: /, id: KR3a0006_krp_010-bkkpn899}
   - {type: punctuation, offset: 9829, content: ), id: KR3a0006_krp_010-bkkpn900}
   - {type: 'kr:newline', offset: 9830, content: '
@@ -2728,14 +2847,17 @@ markers:
   - {type: line-break, offset: 9830, content: '', id: KR3a0006_WYG_010-20a02}
   - {type: punctuation, offset: 9830, content: (, id: KR3a0006_krp_010-bkkpn901}
   - {type: variant, offset: 9830, length: 2, content: 音咸, SBCK: ''}
+  - {type: voice, offset: 9830, length: 2, name: note, id: n120}
   - {type: punctuation, offset: 9831, content: /, id: KR3a0006_krp_010-bkkpn902}
   - {type: punctuation, offset: 9832, content: ), id: KR3a0006_krp_010-bkkpn903}
   - {type: punctuation, offset: 9842, content: (, id: KR3a0006_krp_010-bkkpn904}
   - {type: variant, offset: 9842, length: 4, content: 古本作邪, SBCK: ''}
+  - {type: voice, offset: 9842, length: 4, name: note, id: n121}
   - {type: punctuation, offset: 9844, content: /, id: KR3a0006_krp_010-bkkpn905}
   - {type: punctuation, offset: 9846, content: ), id: KR3a0006_krp_010-bkkpn906}
   - {type: punctuation, offset: 9849, content: (, id: KR3a0006_krp_010-bkkpn907}
   - {type: variant, offset: 9849, length: 26, content: 莫邪呉王劒名干將妻之所造也干將妻曰莫邪故名其劒曰莫邪, SBCK: ''}
+  - {type: voice, offset: 9849, length: 26, name: note, id: n122}
   - {type: punctuation, offset: 9854, content: /, id: KR3a0006_krp_010-bkkpn908}
   - {type: punctuation, offset: 9859, content: ), id: KR3a0006_krp_010-bkkpn909}
   - {type: 'kr:newline', offset: 9859, content: '
@@ -2753,21 +2875,25 @@ markers:
   - {type: line-break, offset: 9888, content: '', id: KR3a0006_WYG_010-20a04}
   - {type: punctuation, offset: 9888, content: (, id: KR3a0006_krp_010-bkkpn913}
   - {type: variant, offset: 9888, length: 2, content: 音鋤, SBCK: ''}
+  - {type: voice, offset: 9888, length: 2, name: note, id: n123}
   - {type: punctuation, offset: 9889, content: /, id: KR3a0006_krp_010-bkkpn914}
   - {type: punctuation, offset: 9890, content: ), id: KR3a0006_krp_010-bkkpn915}
   - {type: variant, offset: 9891, length: 1, content: 棘, SBCK: 􅁄}
   - {type: punctuation, offset: 9893, content: (, id: KR3a0006_krp_010-bkkpn916}
   - {type: variant, offset: 9893, length: 2, content: 音姜, SBCK: ''}
+  - {type: voice, offset: 9893, length: 2, name: note, id: n124}
   - {type: punctuation, offset: 9894, content: /, id: KR3a0006_krp_010-bkkpn917}
   - {type: punctuation, offset: 9895, content: ), id: KR3a0006_krp_010-bkkpn918}
   - {type: punctuation, offset: 9901, content: (, id: KR3a0006_krp_010-bkkpn919}
   - {type: variant, offset: 9901, length: 2, content: 音韶, SBCK: ''}
+  - {type: voice, offset: 9901, length: 2, name: note, id: n125}
   - {type: punctuation, offset: 9902, content: /, id: KR3a0006_krp_010-bkkpn920}
   - {type: punctuation, offset: 9903, content: ), id: KR3a0006_krp_010-bkkpn921}
   - {type: variant, offset: 9904, length: 1, content: 撃, SBCK: 擊}
   - {type: page-break, offset: 9908, content: '', id: KR3a0006_SBCK_009-6b}
   - {type: punctuation, offset: 9909, content: (, id: KR3a0006_krp_010-bkkpn922}
   - {type: variant, offset: 9909, length: 387, content: 許慎曰衝臨衝也所以臨敵城衝突壤之者也隆髙也劉熈曰隆隆强也言體隆而强也樂書曰韶蕭韶也舜之樂也武大武也武王之樂也應劭曰烏號弓也楚有柘桑其材堅勁鳥峙其上及其將飛枝必撓下勁能復起巢鳥隨之鳥不得飛欲墮而號伐其枝以為弓因曰烏號之弓也張揖曰黄帝鑄鼎於荆山鼎湖得道而仙乗龍上天小臣不得上挽悉持龍髯㧞墮黄帝之弓百姓仰望抱弓而號故後世名其弓曰烏號也兵略曰二世皇帝勢為天子富有天下人迹所至舟檝所通莫不為郡縣然縱耳目之欲窮侈靡之變不顧百姓之飢寒窮匱也興萬乗之駕而作阿房之宫發閭左之戍牧太半之賦百姓之隨逮肆刑挽輅首路死者一旦不知千萬之數天下敖然若焦熱傾然若苦烈上下不相寜吏民不相憀戍卒陳勝興於大澤攘臂袒右稱為大楚而天下響應當此之時非有牢甲利兵勁弩强衝也伐棘棗而為矜周錐鑿而為刃剡摲筡奮儋钁以當修㦸强弩攻城略地莫不降下天下為之麋沸螘動雲徹席卷方數千里勢位至賤而器械甚不利然一人唱而天下應之者積怨在於民也, SBCK: ''}
+  - {type: voice, offset: 9909, length: 387, name: note, id: n126}
   - {type: punctuation, offset: 9912, content: /, id: KR3a0006_krp_010-bkkpn923}
   - {type: punctuation, offset: 9915, content: ), id: KR3a0006_krp_010-bkkpn924}
   - {type: 'kr:newline', offset: 9915, content: '
@@ -2853,11 +2979,13 @@ markers:
   - {type: variant, offset: 10321, length: 1, content: 呉, SBCK: 吳}
   - {type: punctuation, offset: 10325, content: (, id: KR3a0006_krp_010-bkkpn955}
   - {type: variant, offset: 10325, length: 2, content: 音挺, SBCK: ''}
+  - {type: voice, offset: 10325, length: 2, name: note, id: n127}
   - {type: punctuation, offset: 10326, content: /, id: KR3a0006_krp_010-bkkpn956}
   - {type: punctuation, offset: 10327, content: ), id: KR3a0006_krp_010-bkkpn957}
   - {type: variant, offset: 10330, length: 1, content: 劒, SBCK: 劍}
   - {type: punctuation, offset: 10332, content: (, id: KR3a0006_krp_010-bkkpn958}
   - {type: variant, offset: 10332, length: 106, content: 呉越春秋曰呉王闔閭請干將作劒干將者呉人其妻曰莫邪干將采五山之精六金之英候天地伺隂陽百神臨視而金鐵之精未流夫妻乃剪髮及爪而投之罏中金鐵乃濡遂成二劒陽曰干將而作龜文隂曰莫邪而作漫理干將匿其陽出其隂以獻闔閭闔閭甚寳重之, SBCK: ''}
+  - {type: voice, offset: 10332, length: 106, name: note, id: n128}
   - {type: punctuation, offset: 10337, content: /, id: KR3a0006_krp_010-bkkpn959}
   - {type: punctuation, offset: 10342, content: ), id: KR3a0006_krp_010-bkkpn960}
   - {type: 'kr:newline', offset: 10342, content: '
@@ -2896,6 +3024,7 @@ markers:
   - {type: variant, offset: 10464, length: 1, content: 為, SBCK: 爲}
   - {type: punctuation, offset: 10466, content: (, id: KR3a0006_krp_010-bkkpn970}
   - {type: variant, offset: 10466, length: 2, content: 音逐, SBCK: ''}
+  - {type: voice, offset: 10466, length: 2, name: note, id: n129}
   - {type: punctuation, offset: 10467, content: /, id: KR3a0006_krp_010-bkkpn971}
   - {type: punctuation, offset: 10468, content: ), id: KR3a0006_krp_010-bkkpn972}
   - {type: variant, offset: 10471, length: 1, content: 為, SBCK: 爲}
@@ -2910,6 +3039,7 @@ markers:
   - {type: line-break, offset: 10496, content: '', id: KR3a0006_WYG_010-21a05}
   - {type: punctuation, offset: 10514, content: (, id: KR3a0006_krp_010-bkkpn973}
   - {type: variant, offset: 10514, length: 416, content: 道應篇曰齊楚呉越皆嘗勝矣然而卒取亡焉不通乎持勝也唯有道之主能持勝孔子勁杓國門之關而不肯以力聞墨子為守攻公輸般服而不肯以兵知善持勝者以强為弱故老子曰道冲而用之又弗盈也惠孟見宋康王蹀足謦欬疾言曰寡人所說者勇有功也不説為仁義者也客將何以教寡人惠孟對曰臣有道於此人雖勇刺之不入雖巧有力擊之不中大王獨無意邪宋王曰善此寡人之所欲聞也惠孟曰夫刺之而不入擊之而不中此猶辱也臣有道於此使人雖有勇弗敢刺雖有力不敢擊夫不敢刺不敢擊非無其意也臣有道於此使人本無其意也夫無其意未有愛利之心也臣有道於此使天下丈夫女子莫不歡然皆欲愛利之心此其賢於勇有力也四累之上也大王獨無意耶宋王曰此寡人所欲得也惠孟對曰孔墨是已孔丘墨翟無地而為君無官而為長天下丈夫女子莫不延頸舉踵而願安利之者今大王萬乗之主也誠有其志則四境之内皆得其利矣賢於孔墨也逺矣宋王無以應惠孟出宋王謂左右曰辯矣客之以説勝寡人也故老子曰勇於不敢則活由此觀之大勇反為不勇耳揚雄曰六經之治貴於未亂兵家之勝貴於未戰, SBCK: ''}
+  - {type: voice, offset: 10514, length: 416, name: note, id: n130}
   - {type: punctuation, offset: 10517, content: /, id: KR3a0006_krp_010-bkkpn974}
   - {type: punctuation, offset: 10520, content: ), id: KR3a0006_krp_010-bkkpn975}
   - {type: 'kr:newline', offset: 10520, content: '
@@ -2993,6 +3123,7 @@ markers:
   - {type: indent, offset: 10930, content: 　, id: KR3a0006_krp_010-bkkind146}
   - {type: variant, offset: 10936, length: 3, content: 七音比, SBCK: 􅍰}
   - {type: punctuation, offset: 10937, content: (, id: KR3a0006_krp_010-bkkpn1006}
+  - {type: voice, offset: 10937, length: 2, name: note, id: n131}
   - {type: punctuation, offset: 10938, content: /, id: KR3a0006_krp_010-bkkpn1007}
   - {type: punctuation, offset: 10939, content: ), id: KR3a0006_krp_010-bkkpn1008}
   - {type: 'kr:newline', offset: 10951, content: '
@@ -3007,6 +3138,7 @@ markers:
   - {type: variant, offset: 10952, length: 0, content: '', SBCK: 備}
   - {type: punctuation, offset: 10956, content: (, id: KR3a0006_krp_010-bkkpn1009}
   - {type: variant, offset: 10956, length: 364, content: 刺客傳曰燕太子質于秦亡歸見秦且滅六國兵已臨易水恐其禍至丹患之因田光以交荆軻於是尊荆軻為上卿令秦武陽為副俱入秦刺秦王臨發太子及賔客知其事者皆白衣冠以送之至易水上既祖取道髙漸離擊筑荆軻和而歌為變徵之聲士皆垂淚涕泣又前而為歌曰風蕭蕭兮易水寒壯士一去兮不復還復為羽聲慨慷士皆瞋目髪盡上衝冠於是荆軻遂就車而去終已不顧既至秦秦王聞之大喜乃朝服設九賔見燕使者咸陽宫荆卿進樊於期之頭函而秦武陽奉地圖匣以次進至陛軻取圖奉之秦王發圖圖窮而匕首見因左手把秦王之袖而右手持匕首揕之未至身秦王驚自引而起袖絶環柱而走羣臣驚焉乃以手共摶之是時侍醫夏無且以其所奉藥囊提荆軻秦王方環柱走卒惶急不知所為左右乃曰王負劒王負劒遂㧞以撃荆軻斷其左股荆軻廢乃引其匕首以提秦王不中中柱秦王復擊軻軻被八創軻自知事不就倚柱而笑箕踞以罵曰事所以不成者乃欲以生刼之必得約契以報太子也, SBCK: ''}
+  - {type: voice, offset: 10956, length: 364, name: note, id: n132}
   - {type: punctuation, offset: 10971, content: /, id: KR3a0006_krp_010-bkkpn1010}
   - {type: punctuation, offset: 10986, content: ), id: KR3a0006_krp_010-bkkpn1011}
   - {type: 'kr:newline', offset: 10986, content: '
@@ -3089,6 +3221,7 @@ markers:
   - {type: variant, offset: 11324, length: 1, content: 歴, SBCK: 􅊗}
   - {type: punctuation, offset: 11327, content: (, id: KR3a0006_krp_010-bkkpn1039}
   - {type: variant, offset: 11327, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 11327, length: 2, name: note, id: n133}
   - {type: punctuation, offset: 11328, content: /, id: KR3a0006_krp_010-bkkpn1040}
   - {type: punctuation, offset: 11329, content: ), id: KR3a0006_krp_010-bkkpn1041}
   - {type: variant, offset: 11330, length: 1, content: 呉, SBCK: 吳}
@@ -3099,6 +3232,7 @@ markers:
   - {type: indent, offset: 11334, content: 　, id: KR3a0006_krp_010-bkkind157}
   - {type: punctuation, offset: 11340, content: (, id: KR3a0006_krp_010-bkkpn1042}
   - {type: variant, offset: 11340, length: 333, content: 呉世家曰伍子胥之初奔呉說呉王僚以伐楚之利公子光曰胥之父兄為僇於楚欲自報其仇耳未見其利於是伍員知光有他志乃求勇士專諸見之光喜乃客伍子胥子胥退而耕於野以待專諸之事十二年冬楚平王卒十三年春呉欲因楚䘮而伐之使公子蓋餘燭庸以兵圍楚之六灊使季札於晉以觀諸侯之變楚發兵絶呉兵後呉兵不得還於是呉公子光曰此時不可失也告專諸曰不索何獲我真王嗣當立吾欲求之季子雖至不吾廢也專諸曰王僚可殺也母老子弱而兩公子將兵攻楚楚絶其路方今呉外困於楚而内空無骨鯁之臣是無奈我何光曰我身子之身也四月丙子光伏甲士於窟室而謁王僚飲王僚使兵陳於道自王宫至光之家門階戸席皆王僚之親也人夾持鈹公子光詳為足疾入于窟室使專諸置匕首於炙魚之中以進食手匕首刺王僚鈹交於匈遂殺王僚公子光竟代立為王是為呉王闔廬闔廬乃以專諸子為卿, SBCK: ''}
+  - {type: voice, offset: 11340, length: 333, name: note, id: n134}
   - {type: punctuation, offset: 11354, content: /, id: KR3a0006_krp_010-bkkpn1043}
   - {type: punctuation, offset: 11368, content: ), id: KR3a0006_krp_010-bkkpn1044}
   - {type: 'kr:newline', offset: 11368, content: '
@@ -3177,10 +3311,12 @@ markers:
   - {type: page-break, offset: 11683, content: '', id: KR3a0006_SBCK_009-7a}
   - {type: punctuation, offset: 11692, content: (, id: KR3a0006_krp_010-bkkpn1069}
   - {type: variant, offset: 11692, length: 3, content: 音潮暴, SBCK: 􅁀}
+  - {type: voice, offset: 11692, length: 2, name: note, id: n135}
   - {type: punctuation, offset: 11693, content: /, id: KR3a0006_krp_010-bkkpn1070}
   - {type: punctuation, offset: 11694, content: ), id: KR3a0006_krp_010-bkkpn1071}
   - {type: punctuation, offset: 11698, content: (, id: KR3a0006_krp_010-bkkpn1072}
   - {type: variant, offset: 11698, length: 943, content: 韓䇿曰韓傀相韓嚴遂重於君二人相害也嚴遂政議直指舉韓傀之過韓傀以之叱之於朝嚴遂㧞劒趨之以救解於是嚴遂懼誅亡去游求人可以報韓傀者至齊齊人或言軹深井里聶政勇敢士也避仇隠於屠者之間嚴遂隂交於聶政以意厚之聶政問之曰子欲安用我乎嚴遂曰吾得為役之日淺事今薄奚敢有請於是嚴遂乃具酒自觴聶政母前仲子奉黄金百鎰前為聶政母夀聶政驚愈恠其厚固謝嚴仲子仲子固進而聶政謝曰臣有老母家貧客游以為狗屠可旦夕得甘脆以養親親供養備義不敢當仲子之賜嚴仲子辟人因為聶政語曰臣有仇而行游諸侯衆矣然至齊聞足下義甚髙故直進百金者特以大人麤糲之費以交足下之讙豈敢以有求邪聶政曰臣所以降志辱身居市井屠者幸以養老母老母在前政身未敢以許人也嚴仲子固讓聶政竟不肯受然仲子卒備賔主之禮而去乆之聶政母死既葬除服聶政曰嗟乎政乃市井之人鼓刀以屠而嚴仲子乃諸侯之卿相也不逺千里枉車騎而交臣臣之所以待之者至淺矣未有大功可以稱者而嚴仲子舉百金為親壽我義不受然是深知政也夫賢者以感忿睚眦之意而親信窮僻之人而政獨安可嘿然而止乎且前日要政政徒以老母老母今以天年終政將為知己者用遂西至濮陽見嚴仲子曰前日所以不許仲子者徒以親在今親不幸而死仲子所欲報仇者請得從事焉嚴仲子具告曰臣之仇韓相韓傀傀又韓君之季父也宗族盛多居處兵衞甚設臣使人刺之終莫能就今足下幸而不棄請益具車騎壯士以為羽翼政曰韓與衞相去中間不逺今殺人之相相乂國君之親此其勢不可以多人多人不能無生得失生得失則語泄語泄則韓舉國而與仲子為讐也豈不殆哉遂謝車騎人徒辭獨行仗劒至韓韓適有東孟之㑹韓王及相皆在焉持兵㦸而衛侍者甚衆聶政直入階刺殺韓傀韓傀走而就列侯聶政刺之兼中列侯左右大亂聶政大呼所擊殺者數十人因自面皮抉眼屠腸遂以死韓取聶政屍暴於市縣購之千金乆之莫知誰政姊嫈聞之曰吾弟至賢不可愛妾之軀滅吾弟之名非弟意也乃之韓視之曰勇哉氣矜之隆是其軼賁育髙成荆矣今死而無名父母既殁矣兄弟無有此為我故也夫愛身不揚弟之名吾不忍也乃抱屍而哭之曰此吾弟軹深井里聶政也亦自殺於屍下晉楚齊衞聞之曰非獨聶政之能乃其姊者列女也聶政之所以名施於後世者其姊不避葅酢之誅以揚其名也唐睢曰専諸之要刺王僚也彗星襲月聶政之刺韓傀也白虹貫日離之刺慶忌也倉鷹擊於殿上此三子皆布衣之士也懐怒未發休䘲降於天吕氏春秋曰豫讓必死於襄子而趙氏皆恐成荆致死於韓王而周人皆畏, SBCK: ''}
+  - {type: voice, offset: 11698, length: 943, name: note, id: n136}
   - {type: punctuation, offset: 11701, content: /, id: KR3a0006_krp_010-bkkpn1073}
   - {type: punctuation, offset: 11704, content: ), id: KR3a0006_krp_010-bkkpn1074}
   - {type: 'kr:newline', offset: 11704, content: '
@@ -3395,6 +3531,7 @@ markers:
   - {type: variant, offset: 12665, length: 1, content: 若, SBCK: 􅀂}
   - {type: punctuation, offset: 12668, content: (, id: KR3a0006_krp_010-bkkpn1147}
   - {type: variant, offset: 12668, length: 2, content: 音貴, SBCK: ''}
+  - {type: voice, offset: 12668, length: 2, name: note, id: n137}
   - {type: punctuation, offset: 12669, content: /, id: KR3a0006_krp_010-bkkpn1148}
   - {type: punctuation, offset: 12670, content: ), id: KR3a0006_krp_010-bkkpn1149}
   - {type: variant, offset: 12671, length: 1, content: 負, SBCK: 􅀒}
@@ -3406,6 +3543,7 @@ markers:
   - {type: variant, offset: 12673, length: 1, content: 桓, SBCK: 􅁊}
   - {type: punctuation, offset: 12678, content: (, id: KR3a0006_krp_010-bkkpn1150}
   - {type: variant, offset: 12678, length: 281, content: 雜事篇曰昔者齊桓公與魯莊公為柯之盟魯大夫曹劌謂莊公曰齊之侵魯至於城下城壞壓境君不圖與莊公曰嘻寡人之生不若死曹劌曰然則君請當其君臣請當其臣及㑹兩君就壇兩相相揖曹劌手劍㧞刃而進廹桓公於壇上曰城壞壓境君不圖與管仲曰然則君何求曹劌曰願請汶陽田管仲謂桓公曰君其許之桓公許之曹劌請盟桓公遂與之盟已盟標劒而去左右曰要盟可倍曹劌可讐請倍盟而討曹劌管仲曰要盟可負而君不負曹劌可讐而君不讐著君天下矣遂不倍天下諸侯翕然而歸之為鄄之㑹幽之盟諸侯莫不至焉為陽榖之㑹貫澤之盟逺國皆來南伐强楚以致菁茅之貢北伐山戎為燕開路三存亡國一繼絶世尊事周室九合諸侯一匡天下功次三王為五伯長本信起乎柯之盟也, SBCK: ''}
+  - {type: voice, offset: 12678, length: 281, name: note, id: n138}
   - {type: punctuation, offset: 12692, content: /, id: KR3a0006_krp_010-bkkpn1151}
   - {type: punctuation, offset: 12706, content: ), id: KR3a0006_krp_010-bkkpn1152}
   - {type: 'kr:newline', offset: 12706, content: '
@@ -3470,6 +3608,7 @@ markers:
   - {type: punctuation, offset: 12959, content: ), id: KR3a0006_krp_010-bkkpn1173}
   - {type: punctuation, offset: 12962, content: (, id: KR3a0006_krp_010-bkkpn1174}
   - {type: variant, offset: 12962, length: 2, content: 音府, SBCK: ''}
+  - {type: voice, offset: 12962, length: 2, name: note, id: n139}
   - {type: punctuation, offset: 12963, content: /, id: KR3a0006_krp_010-bkkpn1175}
   - {type: punctuation, offset: 12964, content: ), id: KR3a0006_krp_010-bkkpn1176}
   - {type: 'kr:newline', offset: 12973, content: '
@@ -3483,6 +3622,7 @@ markers:
   - {type: line-break, offset: 12989, content: '', id: KR3a0006_WYG_010-25a07}
   - {type: punctuation, offset: 13001, content: (, id: KR3a0006_krp_010-bkkpn1177}
   - {type: variant, offset: 13001, length: 2, content: 音薄, SBCK: ''}
+  - {type: voice, offset: 13001, length: 2, name: note, id: n140}
   - {type: punctuation, offset: 13002, content: /, id: KR3a0006_krp_010-bkkpn1178}
   - {type: punctuation, offset: 13003, content: ), id: KR3a0006_krp_010-bkkpn1179}
   - {type: 'kr:newline', offset: 13011, content: '
@@ -3495,6 +3635,7 @@ markers:
   - {type: variant, offset: 13025, length: 2, content: 寗戚, SBCK: ''}
   - {type: variant, offset: 13028, length: 2, content: 伯音, SBCK: ''}
   - {type: punctuation, offset: 13029, content: (, id: KR3a0006_krp_010-bkkpn1180}
+  - {type: voice, offset: 13029, length: 2, name: note, id: n141}
   - {type: punctuation, offset: 13030, content: /, id: KR3a0006_krp_010-bkkpn1181}
   - {type: punctuation, offset: 13031, content: ), id: KR3a0006_krp_010-bkkpn1182}
   - {type: 'kr:newline', offset: 13033, content: '
@@ -3508,6 +3649,7 @@ markers:
   - {type: variant, offset: 13037, length: 3, content: 百里奚, SBCK: ''}
   - {type: punctuation, offset: 13047, content: (, id: KR3a0006_krp_010-bkkpn1183}
   - {type: variant, offset: 13047, length: 668, content: 姚賈説秦王曰太公望齊之逐夫朝歌之廢屠子良之逐臣棘津之售不庸文王用之而王管仲其鄙人之賈人也南陽之敝幽魯之免囚桓公用之而霸百里奚虞之乞人傳賣以五羊之皮穆公相之而朝西戎孔子曰賢不肖者材也遇不遇者時也今無有時賢安所用哉伊尹故有莘氏僮也負鼎操爼調五味而立為相其遇湯也呂望行年五十賣食棘津年七十屠於朝歌九十乃為天子師則遇文王也管夷吾束縛自檻車以為仲父則遇齊桓公也百里奚自賣五羊之皮為秦伯牧羊舉為大夫則遇秦繆公也冉有曰夫百里奚齊之乞者也逐於齊西無以進自賣五羊皮為一軛車見秦穆公立為相遂霸西戎太公望少為人壻老而見去屠牛朝歌賃於棘津釣於磻溪文王舉而用之封於齊管仲親射桓公遂除報讐之心立以為相存亡繼絶九合諸侯一匡天下鄒子説梁王曰伊尹故有莘氏之媵臣也湯立以三公天下之治太平太公望故老婦之出夫也朝歌之屠佐也棘津迎客之舍人也年七十而相周九十而封齊管仲故成隂之狗盗也天下之庸夫也齊桓公得之為仲父百里奚道之於路傳賣五羊之皮秦穆公委之以政寗戚故將車人也叩轅行歌於康之衢桓公任以國故詩曰緜緜之葛在於曠野良工得之以為絺紵良工不得枯死於野此七士者不遇明君聖主㡬行乞丐枯死於中野譬猶緜緜之葛矣李康曰伊尹有莘氏之媵臣也而阿衡於商太公渭濵之賤老也而尚父於周吕氏春秋曰百里奚處乎虞而虞亡處乎秦而秦霸百里奚之處乎虞知非遇也其處於秦非加益也秦紀曰戎王使由余於秦秦後歸由余繆公又使人間要由余遂去降秦繆公以客禮禮之秦用由余謀伐戎王益國十二開地千里遂霸西戎尊賢篇曰國不務大而務得民心佐不務多而務得賢俊得民心者民往之有賢佐者士歸之語曰得十良馬不若得一伯樂得十良劒不若得一歐冶得地千里不若得一聖人, SBCK: ''}
+  - {type: voice, offset: 13047, length: 668, name: note, id: n142}
   - {type: punctuation, offset: 13054, content: /, id: KR3a0006_krp_010-bkkpn1184}
   - {type: punctuation, offset: 13061, content: ), id: KR3a0006_krp_010-bkkpn1185}
   - {type: 'kr:newline', offset: 13061, content: '
@@ -3638,6 +3780,7 @@ markers:
   - {type: variant, offset: 13732, length: 1, content: 逺, SBCK: 遠}
   - {type: punctuation, offset: 13734, content: (, id: KR3a0006_krp_010-bkkpn1234}
   - {type: variant, offset: 13734, length: 49, content: 周書曰惟克商遂通道于九夷八蠻西旅底貢厥獒大保乃作旅獒用訓于王曰嗚呼明王慎徳四夷咸賔無有逺邇畢獻方物, SBCK: ''}
+  - {type: voice, offset: 13734, length: 49, name: note, id: n143}
   - {type: punctuation, offset: 13745, content: /, id: KR3a0006_krp_010-bkkpn1235}
   - {type: punctuation, offset: 13756, content: ), id: KR3a0006_krp_010-bkkpn1236}
   - {type: 'kr:newline', offset: 13756, content: '
@@ -3664,6 +3807,7 @@ markers:
   - {type: variant, offset: 13826, length: 1, content: 逺, SBCK: 遠}
   - {type: punctuation, offset: 13831, content: (, id: KR3a0006_krp_010-bkkpn1240}
   - {type: variant, offset: 13831, length: 2, content: 去聲, SBCK: ''}
+  - {type: voice, offset: 13831, length: 2, name: note, id: n144}
   - {type: punctuation, offset: 13832, content: /, id: KR3a0006_krp_010-bkkpn1241}
   - {type: punctuation, offset: 13833, content: ), id: KR3a0006_krp_010-bkkpn1242}
   - {type: 'kr:newline', offset: 13833, content: '
@@ -3672,6 +3816,7 @@ markers:
   - {type: line-break, offset: 13833, content: '', id: KR3a0006_WYG_010-26b06}
   - {type: punctuation, offset: 13835, content: (, id: KR3a0006_krp_010-bkkpn1243}
   - {type: variant, offset: 13835, length: 19, content: 孔子曰徳之流行速於置郵而傳命鹽鐵論卷十, SBCK: ''}
+  - {type: voice, offset: 13835, length: 14, name: note, id: n145}
   - {type: punctuation, offset: 13842, content: /, id: KR3a0006_krp_010-bkkpn1244}
   - {type: punctuation, offset: 13849, content: ), id: KR3a0006_krp_010-bkkpn1245}
   - {type: 'kr:newline', offset: 13849, content: '
@@ -3688,4 +3833,4 @@ markers:
 
       ', id: KR3a0006_krp_010-bkkkrnewl467}
   back: []
-hash: sha256:37eb3dbf7bf2c451269ef094676973082de334d0c7448547e824d7601cd65bbf
+hash: sha256:0e83fde31e2997941ed8c8dd17c49433f7accc19c74b959fef08a6708f3ecba9

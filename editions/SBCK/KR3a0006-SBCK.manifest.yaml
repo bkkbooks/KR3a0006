@@ -32,7 +32,7 @@ assets:
   - {seq: 12, filename: KR3a0006_012-SBCK.yaml, hash: 'sha256:081e58e299c246bea5670c87ade6af4dd9630a623b04dfe73db8dc9eb5b8a742'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3a0006_000-SBCK.markers.yaml, hash: 'sha256:57b5284b535fe618d7b82243123ffe3413d35fba01d2b7b2a8d6412bfdfd24aa'}
-  - {seq: 1, role: markers, filename: assets/KR3a0006_001-SBCK.markers.yaml, hash: 'sha256:fb9adf9d51ded44c8be76d9f146bde83b02e6441f217232af51843a3856c4166'}
+  - {seq: 1, role: markers, filename: assets/KR3a0006_001-SBCK.markers.yaml, hash: 'sha256:a31a2dfea24444a6b8fc40ae946adfd7be7637bf9f984caba591e8c45508bd45'}
   - {seq: 2, role: markers, filename: assets/KR3a0006_002-SBCK.markers.yaml, hash: 'sha256:44646b0b4902bba11f6e226becaf41720f0d3250ea1ca682ef0f1770f85669f3'}
   - {seq: 3, role: markers, filename: assets/KR3a0006_003-SBCK.markers.yaml, hash: 'sha256:cc37543094fbe21e239f89f7c9371ae3a6007c52fb663d975ce1997c52d4c85e'}
   - {seq: 4, role: markers, filename: assets/KR3a0006_004-SBCK.markers.yaml, hash: 'sha256:184947df648f1a7cde18fd33ffdd500ba1ab7883a1058c258690269eafccfbd3'}
@@ -43,7 +43,7 @@ assets:
   - {seq: 9, role: markers, filename: assets/KR3a0006_009-SBCK.markers.yaml, hash: 'sha256:2e029acc6e43a761966c168fdb1edf22db32a898d9559059c2a78161043b9a78'}
   - {seq: 10, role: markers, filename: assets/KR3a0006_010-SBCK.markers.yaml, hash: 'sha256:642cb86ceb7ae2b7460423f8f21c8b4f0ee9c23b4ceaaac2fd1728b966ea7a8a'}
   - {seq: 11, role: markers, filename: assets/KR3a0006_011-SBCK.markers.yaml, hash: 'sha256:cb8b81074eb20711466b1d1a3e9008043cf5d956a2d26a9dfc4f9e8a74a00ed8'}
-  - {seq: 12, role: markers, filename: assets/KR3a0006_012-SBCK.markers.yaml, hash: 'sha256:afedf4c2a7c8310f27b839609e8f340223e08339b5014e17dce278df70906853'}
+  - {seq: 12, role: markers, filename: assets/KR3a0006_012-SBCK.markers.yaml, hash: 'sha256:b99b94984ec14f141d94efeb2fc19fc86ed43c6df26b739d7878250db988569f'}
 table_of_contents:
 - ref:
     seq: 0
@@ -175,4 +175,4 @@ table_of_contents:
   label: juan 012
   type: section
   level: 1
-hash: sha256:e2f61c92917c92747bd966ad06e998d5eda9e248f03977e687ffa1fec886e56d
+hash: sha256:e79215aab609603d40622b9738742b0212b436e29be141e26bfddb27a1a29317
